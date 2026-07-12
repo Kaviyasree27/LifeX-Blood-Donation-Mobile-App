@@ -50,7 +50,7 @@ Users can create a new account by entering their personal details.
 ### Login Screen
 Secure login using registered email and password.
 
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/92b6b113-0330-49d6-8a7d-c5c15ac36352" />
+<img width="220" height="500" alt="image" src="https://github.com/user-attachments/assets/92b6b113-0330-49d6-8a7d-c5c15ac36352" />
 
 
 ---
@@ -59,7 +59,7 @@ Secure login using registered email and password.
 Provides quick access to all application features.
 
 
-<img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/8d025466-8d8a-4f62-b478-53f0b1c0a043" />
+<img width="220" height="500" alt="image" src="https://github.com/user-attachments/assets/8d025466-8d8a-4f62-b478-53f0b1c0a043" />
 
 ---
 
@@ -67,7 +67,7 @@ Provides quick access to all application features.
 Users can register themselves as blood donors.
 
 
-<img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/bdfd029c-74a8-41c1-9dfe-2f041d589de6" />
+<img width="220" height="500" alt="image" src="https://github.com/user-attachments/assets/bdfd029c-74a8-41c1-9dfe-2f041d589de6" />
 
 ---
 
@@ -77,14 +77,14 @@ Confirmation displayed after successful donor registration.
 
 
 
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/06861754-9136-490f-b0d5-886e0c66404d" />
+<img width="220" height="500" alt="image" src="https://github.com/user-attachments/assets/06861754-9136-490f-b0d5-886e0c66404d" />
 
 ---
 
 ### Find Blood
 Search for blood donors using blood group and city.
 
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/1626af79-65fe-4b4e-923f-e21816e97a42" />
+<img width="220" height="500" alt="image" src="https://github.com/user-attachments/assets/1626af79-65fe-4b4e-923f-e21816e97a42" />
 
 
 ---
