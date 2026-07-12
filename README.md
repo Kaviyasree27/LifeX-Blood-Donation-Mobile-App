@@ -36,14 +36,14 @@ LifeX is a Flutter-based mobile application designed to simplify blood donation 
 ### Welcome Screen
 The landing page introducing the application.
 
-<img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/d4f76e02-e7f8-4300-9fbe-064a43138c3e" />
+<img width="220" height="500" alt="image" src="https://github.com/user-attachments/assets/d4f76e02-e7f8-4300-9fbe-064a43138c3e" />
 ---
 
 ### User Registration
 Users can create a new account by entering their personal details.
 
 
-<img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/dd63e865-b8a2-49b9-8c06-342713cb1895" />
+<img width="220" height="500" alt="image" src="https://github.com/user-attachments/assets/dd63e865-b8a2-49b9-8c06-342713cb1895" />
 
 ---
 
@@ -92,27 +92,30 @@ Search for blood donors using blood group and city.
 ### Blood Search Results
 Displays matching donors with their contact information.
 
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/e7dbe610-20f0-45ad-97a1-509e45792745" />
+<img width="220" height="500" alt="image" src="https://github.com/user-attachments/assets/e7dbe610-20f0-45ad-97a1-509e45792745" />
 
 ---
 
 ### Nearby Blood Donation Camps
 Locate nearby blood donation camps on Google Maps.
 Live location is indicated in Blue colour.
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/0db572a2-47a0-49bb-b973-43fcfea2a6fe" />
+
+
+<img width="220" height="500" alt="image" src="https://github.com/user-attachments/assets/0db572a2-47a0-49bb-b973-43fcfea2a6fe" />
 
 
 ---
 
 ### Nearby Camp Search Results
 Displays the nearest blood donation camp with map navigation.
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/1abe3a09-1fb8-47a1-9b11-7b3812aba5be" />
+
+<img width="220" height="500" alt="image" src="https://github.com/user-attachments/assets/1abe3a09-1fb8-47a1-9b11-7b3812aba5be" />
 
 ---
 ### AI Chatbot
 Provides instant guidance and answers to blood donation-related questions.
 
-<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/0a134585-57cb-438f-8b05-79340506b3d6" />
+<img width="220" height="500" alt="image" src="https://github.com/user-attachments/assets/0a134585-57cb-438f-8b05-79340506b3d6" />
 
 
 ---
@@ -120,21 +123,21 @@ Provides instant guidance and answers to blood donation-related questions.
 ### Blood Donation Eligibility Quiz
 Users can check whether they are eligible to donate blood.
 
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/22aeac39-90a5-427e-b5a6-9458983d1c31" />
+<img width="220" height="500" alt="image" src="https://github.com/user-attachments/assets/22aeac39-90a5-427e-b5a6-9458983d1c31" />
 
 
 ---
 
 ### Eligibility Result
 Displays the eligibility status after completing the quiz.
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/e45e3018-6a35-4128-bc31-b6df175e3a81" />
+<img width="220" height="500" alt="image" src="https://github.com/user-attachments/assets/e45e3018-6a35-4128-bc31-b6df175e3a81" />
 
 
 ---
 
 ### User Profile
 Displays the user's registered details.
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/e71323ae-c21d-4814-a370-280d5dee4176" />
+<img width="220" height="500" alt="image" src="https://github.com/user-attachments/assets/e71323ae-c21d-4814-a370-280d5dee4176" />
 
 ---
 
