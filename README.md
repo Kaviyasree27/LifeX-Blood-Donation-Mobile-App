@@ -46,7 +46,7 @@ Users can create a new account by entering their personal details.
 
 
 
-<img src="blob:https://web.whatsapp.com/c4c4f866-3565-4fef-afd3-bd898c2f45ad" width="250">
+<img src="blob:https://web.whatsapp.com/c4c4f866-3565-4fef-afd3-bd898c2f45ad" width="25">
 ---
 
 ### Login Screen
