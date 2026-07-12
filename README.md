@@ -130,6 +130,8 @@ Users can check whether they are eligible to donate blood.
 
 ### Eligibility Result
 Displays the eligibility status after completing the quiz.
+
+
 <img width="220" height="500" alt="image" src="https://github.com/user-attachments/assets/e45e3018-6a35-4128-bc31-b6df175e3a81" />
 
 
@@ -137,6 +139,8 @@ Displays the eligibility status after completing the quiz.
 
 ### User Profile
 Displays the user's registered details.
+
+
 <img width="220" height="500" alt="image" src="https://github.com/user-attachments/assets/e71323ae-c21d-4814-a370-280d5dee4176" />
 
 ---
