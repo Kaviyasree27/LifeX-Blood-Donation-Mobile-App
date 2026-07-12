@@ -1,0 +1,3332 @@
+[
+  {
+    "name": "Ariyalur Govt Hospital Blood Donation Camp",
+    "city": "Ariyalur",
+    "lat": 11.1381,
+    "lng": 79.0780,
+    "date": "2025-09-12",
+    "time": "10:00 AM",
+    "organizer": "Government Hospital"
+  },
+  {
+    "name": "Red Cross Blood Camp Ariyalur",
+    "city": "Ariyalur",
+    "lat": 11.1400,
+    "lng": 79.0825,
+    "date": "2025-09-20",
+    "time": "09:30 AM",
+    "organizer": "Indian Red Cross Society"
+  },
+  {
+    "name": "Lions Club Blood Donation Drive Ariyalur",
+    "city": "Ariyalur",
+    "lat": 11.1422,
+    "lng": 79.0758,
+    "date": "2025-10-05",
+    "time": "11:00 AM",
+    "organizer": "Lions Club"
+  },
+  {
+    "name": "Rotary Ariyalur Blood Camp",
+    "city": "Ariyalur",
+    "lat": 11.1355,
+    "lng": 79.0700,
+    "date": "2025-10-15",
+    "time": "10:30 AM",
+    "organizer": "Rotary Club"
+  },
+  {
+    "name": "Ariyalur Apollo Clinic Blood Camp",
+    "city": "Ariyalur",
+    "lat": 11.1388,
+    "lng": 79.0730,
+    "date": "2025-11-01",
+    "time": "09:00 AM",
+    "organizer": "Apollo Clinic"
+  },
+  {
+    "name": "District Health Camp Ariyalur",
+    "city": "Ariyalur",
+    "lat": 11.1411,
+    "lng": 79.0770,
+    "date": "2025-11-18",
+    "time": "10:00 AM",
+    "organizer": "District Health Department"
+  },
+  {
+    "name": "Youth Blood Donation Camp Ariyalur",
+    "city": "Ariyalur",
+    "lat": 11.1360,
+    "lng": 79.0799,
+    "date": "2025-12-02",
+    "time": "02:00 PM",
+    "organizer": "Youth Welfare Association"
+  },
+  {
+    "name": "Red Ribbon Ariyalur Blood Camp",
+    "city": "Ariyalur",
+    "lat": 11.1375,
+    "lng": 79.0815,
+    "date": "2025-12-10",
+    "time": "09:45 AM",
+    "organizer": "Red Ribbon Club"
+  },
+  {
+    "name": "Ariyalur Community Hall Blood Donation",
+    "city": "Ariyalur",
+    "lat": 11.1399,
+    "lng": 79.0742,
+    "date": "2026-01-05",
+    "time": "10:15 AM",
+    "organizer": "Community Welfare Society"
+  },
+  {
+    "name": "NGO Health Blood Camp Ariyalur",
+    "city": "Ariyalur",
+    "lat": 11.1405,
+    "lng": 79.0808,
+    "date": "2026-01-20",
+    "time": "11:30 AM",
+    "organizer": "Local NGO"
+  },
+  {
+    "name": "Chengalpattu GH Blood Donation Camp",
+    "city": "Chengalpattu",
+    "lat": 12.6927,
+    "lng": 79.9767,
+    "date": "2025-09-14",
+    "time": "10:00 AM",
+    "organizer": "Government Hospital"
+  },
+  {
+    "name": "Red Cross Camp Chengalpattu",
+    "city": "Chengalpattu",
+    "lat": 12.6950,
+    "lng": 79.9800,
+    "date": "2025-09-25",
+    "time": "09:30 AM",
+    "organizer": "Indian Red Cross Society"
+  },
+  {
+    "name": "Rotary Chengalpattu Blood Donation",
+    "city": "Chengalpattu",
+    "lat": 12.6985,
+    "lng": 79.9788,
+    "date": "2025-10-08",
+    "time": "11:00 AM",
+    "organizer": "Rotary Club"
+  },
+  {
+    "name": "Apollo Clinic Chengalpattu Blood Drive",
+    "city": "Chengalpattu",
+    "lat": 12.6939,
+    "lng": 79.9822,
+    "date": "2025-10-20",
+    "time": "10:00 AM",
+    "organizer": "Apollo Clinic"
+  },
+  {
+    "name": "Lions Club Blood Camp Chengalpattu",
+    "city": "Chengalpattu",
+    "lat": 12.6911,
+    "lng": 79.9745,
+    "date": "2025-11-05",
+    "time": "09:15 AM",
+    "organizer": "Lions Club"
+  },
+  {
+    "name": "Youth Association Blood Camp Chengalpattu",
+    "city": "Chengalpattu",
+    "lat": 12.6960,
+    "lng": 79.9760,
+    "date": "2025-11-18",
+    "time": "10:45 AM",
+    "organizer": "Youth Welfare Association"
+  },
+  {
+    "name": "District Health Dept Blood Donation Chengalpattu",
+    "city": "Chengalpattu",
+    "lat": 12.6945,
+    "lng": 79.9810,
+    "date": "2025-12-01",
+    "time": "11:30 AM",
+    "organizer": "District Health Department"
+  },
+  {
+    "name": "Red Ribbon Club Chengalpattu Camp",
+    "city": "Chengalpattu",
+    "lat": 12.6920,
+    "lng": 79.9785,
+    "date": "2025-12-15",
+    "time": "09:00 AM",
+    "organizer": "Red Ribbon Club"
+  },
+  {
+    "name": "Community Blood Donation Chengalpattu",
+    "city": "Chengalpattu",
+    "lat": 12.6972,
+    "lng": 79.9750,
+    "date": "2026-01-05",
+    "time": "10:00 AM",
+    "organizer": "Community Welfare Society"
+  },
+  {
+    "name": "Local NGO Blood Camp Chengalpattu",
+    "city": "Chengalpattu",
+    "lat": 12.6930,
+    "lng": 79.9790,
+    "date": "2026-01-22",
+    "time": "11:00 AM",
+    "organizer": "Local NGO"
+  },
+  {
+    "name": "Government Stanley Hospital Blood Camp",
+    "city": "Chennai",
+    "lat": 13.0971,
+    "lng": 80.2824,
+    "date": "2025-09-10",
+    "time": "09:00 AM",
+    "organizer": "Government Hospital"
+  },
+  {
+    "name": "Apollo Hospitals Blood Donation Drive",
+    "city": "Chennai",
+    "lat": 13.0610,
+    "lng": 80.2433,
+    "date": "2025-09-15",
+    "time": "10:00 AM",
+    "organizer": "Apollo Hospitals"
+  },
+  {
+    "name": "Red Cross Society Camp - Egmore",
+    "city": "Chennai",
+    "lat": 13.0723,
+    "lng": 80.2590,
+    "date": "2025-09-20",
+    "time": "11:00 AM",
+    "organizer": "Indian Red Cross"
+  },
+  {
+    "name": "SRM Medical College Blood Camp",
+    "city": "Chennai",
+    "lat": 13.0827,
+    "lng": 80.2707,
+    "date": "2025-09-25",
+    "time": "09:30 AM",
+    "organizer": "SRM Institute"
+  },
+  {
+    "name": "Save Life NGO Blood Camp",
+    "city": "Chennai",
+    "lat": 13.0956,
+    "lng": 80.2700,
+    "date": "2025-09-30",
+    "time": "10:30 AM",
+    "organizer": "Save Life NGO"
+  },
+  {
+    "name": "Kilpauk Medical College Camp",
+    "city": "Chennai",
+    "lat": 13.0825,
+    "lng": 80.2393,
+    "date": "2025-10-05",
+    "time": "09:00 AM",
+    "organizer": "Kilpauk Medical College"
+  },
+  {
+    "name": "Lions Club Blood Donation Drive",
+    "city": "Chennai",
+    "lat": 13.0473,
+    "lng": 80.2347,
+    "date": "2025-10-10",
+    "time": "11:00 AM",
+    "organizer": "Lions Club International"
+  },
+  {
+    "name": "Madras Medical College Camp",
+    "city": "Chennai",
+    "lat": 13.0829,
+    "lng": 80.2700,
+    "date": "2025-10-15",
+    "time": "10:00 AM",
+    "organizer": "MMC Chennai"
+  },
+  {
+    "name": "Rotary Blood Donation Camp",
+    "city": "Chennai",
+    "lat": 13.0568,
+    "lng": 80.2423,
+    "date": "2025-10-20",
+    "time": "09:30 AM",
+    "organizer": "Rotary Club"
+  },
+  {
+    "name": "Cancer Institute Blood Donation",
+    "city": "Chennai",
+    "lat": 13.0100,
+    "lng": 80.2444,
+    "date": "2025-10-25",
+    "time": "10:00 AM",
+    "organizer": "Cancer Institute Adyar"
+  },
+  {
+    "name": "Coimbatore Medical College Hospital Camp",
+    "city": "Coimbatore",
+    "lat": 11.0168,
+    "lng": 76.9558,
+    "date": "2025-09-12",
+    "time": "09:00 AM",
+    "organizer": "Government Hospital"
+  },
+  {
+    "name": "PSG Hospitals Blood Drive",
+    "city": "Coimbatore",
+    "lat": 11.0212,
+    "lng": 76.9725,
+    "date": "2025-09-18",
+    "time": "10:00 AM",
+    "organizer": "PSG Hospitals"
+  },
+  {
+    "name": "Ganga Hospital Blood Camp",
+    "city": "Coimbatore",
+    "lat": 11.0165,
+    "lng": 76.9794,
+    "date": "2025-09-22",
+    "time": "09:30 AM",
+    "organizer": "Ganga Hospital"
+  },
+  {
+    "name": "Indian Red Cross Blood Camp",
+    "city": "Coimbatore",
+    "lat": 11.0190,
+    "lng": 76.9675,
+    "date": "2025-09-27",
+    "time": "11:00 AM",
+    "organizer": "Indian Red Cross"
+  },
+  {
+    "name": "Rotary Club Blood Donation",
+    "city": "Coimbatore",
+    "lat": 11.0055,
+    "lng": 76.9629,
+    "date": "2025-10-02",
+    "time": "10:30 AM",
+    "organizer": "Rotary Club"
+  },
+  {
+    "name": "KMCH Blood Donation Drive",
+    "city": "Coimbatore",
+    "lat": 11.0291,
+    "lng": 77.0180,
+    "date": "2025-10-08",
+    "time": "09:00 AM",
+    "organizer": "Kovai Medical Center Hospital"
+  },
+  {
+    "name": "Save Life NGO Blood Camp",
+    "city": "Coimbatore",
+    "lat": 11.0303,
+    "lng": 76.9692,
+    "date": "2025-10-12",
+    "time": "09:45 AM",
+    "organizer": "Save Life NGO"
+  },
+  {
+    "name": "Sri Ramakrishna Hospital Camp",
+    "city": "Coimbatore",
+    "lat": 11.0179,
+    "lng": 76.9844,
+    "date": "2025-10-18",
+    "time": "11:15 AM",
+    "organizer": "Sri Ramakrishna Hospital"
+  },
+  {
+    "name": "Youth Welfare Blood Camp",
+    "city": "Coimbatore",
+    "lat": 11.0220,
+    "lng": 76.9762,
+    "date": "2025-10-23",
+    "time": "09:30 AM",
+    "organizer": "Youth Welfare Association"
+  },
+  {
+    "name": "Lions Club International Blood Drive",
+    "city": "Coimbatore",
+    "lat": 11.0124,
+    "lng": 76.9610,
+    "date": "2025-10-28",
+    "time": "10:00 AM",
+    "organizer": "Lions Club International"
+  },
+  {
+    "name": "Coimbatore Government Hospital Blood Camp",
+    "city": "Coimbatore",
+    "lat": 11.0168,
+    "lng": 76.9558,
+    "date": "2025-09-02",
+    "time": "09:30 AM",
+    "organizer": "Government Hospital"
+  },
+  {
+    "name": "Apollo Hospitals Voluntary Blood Donation Drive",
+    "city": "Coimbatore",
+    "lat": 11.0186,
+    "lng": 76.9725,
+    "date": "2025-09-10",
+    "time": "10:00 AM",
+    "organizer": "Apollo Hospitals"
+  },
+  {
+    "name": "Indian Red Cross Society Coimbatore Camp",
+    "city": "Coimbatore",
+    "lat": 11.0096,
+    "lng": 76.9453,
+    "date": "2025-09-18",
+    "time": "11:00 AM",
+    "organizer": "Indian Red Cross Society"
+  },
+  {
+    "name": "PSG Medical College Blood Donation Camp",
+    "city": "Coimbatore",
+    "lat": 11.0290,
+    "lng": 77.0020,
+    "date": "2025-09-22",
+    "time": "09:00 AM",
+    "organizer": "PSG Hospitals"
+  },
+  {
+    "name": "Lions Club of Coimbatore Mega Camp",
+    "city": "Coimbatore",
+    "lat": 11.0215,
+    "lng": 76.9507,
+    "date": "2025-09-25",
+    "time": "10:30 AM",
+    "organizer": "Lions Club International"
+  },
+  {
+    "name": "Kovai Medical Center & Hospital Donation Drive",
+    "city": "Coimbatore",
+    "lat": 11.0512,
+    "lng": 77.0430,
+    "date": "2025-09-29",
+    "time": "09:15 AM",
+    "organizer": "KMCH"
+  },
+  {
+    "name": "NGO Health Foundation Blood Camp",
+    "city": "Coimbatore",
+    "lat": 11.0268,
+    "lng": 76.9635,
+    "date": "2025-10-05",
+    "time": "11:30 AM",
+    "organizer": "Health Foundation NGO"
+  },
+  {
+    "name": "Rotary Club of Coimbatore Blood Donation Event",
+    "city": "Coimbatore",
+    "lat": 11.0305,
+    "lng": 76.9758,
+    "date": "2025-10-09",
+    "time": "10:00 AM",
+    "organizer": "Rotary Club"
+  },
+  {
+    "name": "Sri Ramakrishna Hospital Camp",
+    "city": "Coimbatore",
+    "lat": 11.0288,
+    "lng": 76.9485,
+    "date": "2025-10-12",
+    "time": "09:45 AM",
+    "organizer": "Sri Ramakrishna Hospital"
+  },
+  {
+    "name": "Community Health Awareness Camp",
+    "city": "Coimbatore",
+    "lat": 11.0145,
+    "lng": 76.9602,
+    "date": "2025-10-15",
+    "time": "10:15 AM",
+    "organizer": "Community Health NGO"
+  },
+  {
+    "name": "Cuddalore Government Hospital Blood Camp",
+    "city": "Cuddalore",
+    "lat": 11.7447,
+    "lng": 79.7680,
+    "date": "2025-09-03",
+    "time": "09:30 AM",
+    "organizer": "Government Hospital"
+  },
+  {
+    "name": "Indian Red Cross Society Cuddalore Camp",
+    "city": "Cuddalore",
+    "lat": 11.7512,
+    "lng": 79.7610,
+    "date": "2025-09-07",
+    "time": "10:00 AM",
+    "organizer": "Indian Red Cross Society"
+  },
+  {
+    "name": "Rotary Club of Cuddalore Blood Donation Drive",
+    "city": "Cuddalore",
+    "lat": 11.7385,
+    "lng": 79.7542,
+    "date": "2025-09-12",
+    "time": "09:45 AM",
+    "organizer": "Rotary Club"
+  },
+  {
+    "name": "Lions Club of Cuddalore Voluntary Camp",
+    "city": "Cuddalore",
+    "lat": 11.7475,
+    "lng": 79.7668,
+    "date": "2025-09-16",
+    "time": "10:15 AM",
+    "organizer": "Lions Club International"
+  },
+  {
+    "name": "Community Health Blood Donation Camp",
+    "city": "Cuddalore",
+    "lat": 11.7520,
+    "lng": 79.7705,
+    "date": "2025-09-20",
+    "time": "11:00 AM",
+    "organizer": "Community Health NGO"
+  },
+  {
+    "name": "Cuddalore Collectorate Office Special Camp",
+    "city": "Cuddalore",
+    "lat": 11.7458,
+    "lng": 79.7632,
+    "date": "2025-09-25",
+    "time": "09:15 AM",
+    "organizer": "District Administration"
+  },
+  {
+    "name": "St. Joseph’s College NSS Blood Drive",
+    "city": "Cuddalore",
+    "lat": 11.7490,
+    "lng": 79.7599,
+    "date": "2025-09-29",
+    "time": "10:30 AM",
+    "organizer": "St. Joseph’s College NSS"
+  },
+  {
+    "name": "Mother Teresa Trust Blood Camp",
+    "city": "Cuddalore",
+    "lat": 11.7415,
+    "lng": 79.7721,
+    "date": "2025-10-03",
+    "time": "09:00 AM",
+    "organizer": "Mother Teresa Trust"
+  },
+  {
+    "name": "General Hospital Cuddalore Extension Camp",
+    "city": "Cuddalore",
+    "lat": 11.7395,
+    "lng": 79.7567,
+    "date": "2025-10-08",
+    "time": "11:30 AM",
+    "organizer": "GH Blood Bank"
+  },
+  {
+    "name": "Youth Volunteers Blood Donation Drive",
+    "city": "Cuddalore",
+    "lat": 11.7482,
+    "lng": 79.7679,
+    "date": "2025-10-13",
+    "time": "10:45 AM",
+    "organizer": "Youth Volunteers Association"
+  },
+  {
+    "name": "Dharmapuri Government Hospital Blood Camp",
+    "city": "Dharmapuri",
+    "lat": 12.1289,
+    "lng": 78.1580,
+    "date": "2025-09-05",
+    "time": "09:30 AM",
+    "organizer": "Government Hospital"
+  },
+  {
+    "name": "Indian Red Cross Society Dharmapuri Camp",
+    "city": "Dharmapuri",
+    "lat": 12.1325,
+    "lng": 78.1622,
+    "date": "2025-09-09",
+    "time": "10:00 AM",
+    "organizer": "Indian Red Cross Society"
+  },
+  {
+    "name": "Rotary Club of Dharmapuri Blood Donation Drive",
+    "city": "Dharmapuri",
+    "lat": 12.1257,
+    "lng": 78.1521,
+    "date": "2025-09-14",
+    "time": "09:45 AM",
+    "organizer": "Rotary Club"
+  },
+  {
+    "name": "Lions Club of Dharmapuri Voluntary Camp",
+    "city": "Dharmapuri",
+    "lat": 12.1290,
+    "lng": 78.1601,
+    "date": "2025-09-18",
+    "time": "10:15 AM",
+    "organizer": "Lions Club International"
+  },
+  {
+    "name": "Community Health Blood Donation Camp",
+    "city": "Dharmapuri",
+    "lat": 12.1340,
+    "lng": 78.1640,
+    "date": "2025-09-22",
+    "time": "11:00 AM",
+    "organizer": "Community Health NGO"
+  },
+  {
+    "name": "Dharmapuri Collectorate Office Special Camp",
+    "city": "Dharmapuri",
+    "lat": 12.1278,
+    "lng": 78.1559,
+    "date": "2025-09-26",
+    "time": "09:15 AM",
+    "organizer": "District Administration"
+  },
+  {
+    "name": "Government Arts College NSS Blood Drive",
+    "city": "Dharmapuri",
+    "lat": 12.1311,
+    "lng": 78.1635,
+    "date": "2025-09-30",
+    "time": "10:30 AM",
+    "organizer": "Government Arts College NSS"
+  },
+  {
+    "name": "Mother Teresa Trust Blood Camp",
+    "city": "Dharmapuri",
+    "lat": 12.1263,
+    "lng": 78.1507,
+    "date": "2025-10-04",
+    "time": "09:00 AM",
+    "organizer": "Mother Teresa Trust"
+  },
+  {
+    "name": "General Hospital Dharmapuri Extension Camp",
+    "city": "Dharmapuri",
+    "lat": 12.1300,
+    "lng": 78.1589,
+    "date": "2025-10-09",
+    "time": "11:30 AM",
+    "organizer": "GH Blood Bank"
+  },
+  {
+    "name": "Youth Volunteers Blood Donation Drive",
+    "city": "Dharmapuri",
+    "lat": 12.1280,
+    "lng": 78.1615,
+    "date": "2025-10-14",
+    "time": "10:45 AM",
+    "organizer": "Youth Volunteers Association"
+  },
+  {
+    "name": "Dindigul Government Hospital Blood Camp",
+    "city": "Dindigul",
+    "lat": 10.3673,
+    "lng": 77.9803,
+    "date": "2025-09-06",
+    "time": "09:30 AM",
+    "organizer": "Government Hospital"
+  },
+  {
+    "name": "Indian Red Cross Society Dindigul Camp",
+    "city": "Dindigul",
+    "lat": 10.3701,
+    "lng": 77.9845,
+    "date": "2025-09-10",
+    "time": "10:00 AM",
+    "organizer": "Indian Red Cross Society"
+  },
+  {
+    "name": "Rotary Club of Dindigul Blood Donation Drive",
+    "city": "Dindigul",
+    "lat": 10.3650,
+    "lng": 77.9780,
+    "date": "2025-09-15",
+    "time": "09:45 AM",
+    "organizer": "Rotary Club"
+  },
+  {
+    "name": "Lions Club of Dindigul Voluntary Camp",
+    "city": "Dindigul",
+    "lat": 10.3689,
+    "lng": 77.9819,
+    "date": "2025-09-19",
+    "time": "10:15 AM",
+    "organizer": "Lions Club International"
+  },
+  {
+    "name": "Community Health Blood Donation Camp",
+    "city": "Dindigul",
+    "lat": 10.3710,
+    "lng": 77.9867,
+    "date": "2025-09-23",
+    "time": "11:00 AM",
+    "organizer": "Community Health NGO"
+  },
+  {
+    "name": "Collectorate Office Dindigul Special Camp",
+    "city": "Dindigul",
+    "lat": 10.3661,
+    "lng": 77.9794,
+    "date": "2025-09-27",
+    "time": "09:15 AM",
+    "organizer": "District Administration"
+  },
+  {
+    "name": "NSS Blood Donation Drive at GTN College",
+    "city": "Dindigul",
+    "lat": 10.3730,
+    "lng": 77.9825,
+    "date": "2025-10-01",
+    "time": "10:30 AM",
+    "organizer": "GTN Arts College NSS"
+  },
+  {
+    "name": "Mother Teresa Trust Blood Camp",
+    "city": "Dindigul",
+    "lat": 10.3644,
+    "lng": 77.9778,
+    "date": "2025-10-05",
+    "time": "09:00 AM",
+    "organizer": "Mother Teresa Trust"
+  },
+  {
+    "name": "General Hospital Dindigul Extension Camp",
+    "city": "Dindigul",
+    "lat": 10.3692,
+    "lng": 77.9837,
+    "date": "2025-10-10",
+    "time": "11:30 AM",
+    "organizer": "GH Blood Bank"
+  },
+  {
+    "name": "Youth Volunteers Blood Donation Drive",
+    "city": "Dindigul",
+    "lat": 10.3679,
+    "lng": 77.9812,
+    "date": "2025-10-15",
+    "time": "10:45 AM",
+    "organizer": "Youth Volunteers Association"
+  },
+  {
+    "name": "Erode Government Hospital Blood Camp",
+    "city": "Erode",
+    "lat": 11.3410,
+    "lng": 77.7172,
+    "date": "2025-09-07",
+    "time": "09:30 AM",
+    "organizer": "Government Hospital"
+  },
+  {
+    "name": "Indian Red Cross Society Erode Camp",
+    "city": "Erode",
+    "lat": 11.3405,
+    "lng": 77.7190,
+    "date": "2025-09-11",
+    "time": "10:00 AM",
+    "organizer": "Indian Red Cross Society"
+  },
+  {
+    "name": "Rotary Club of Erode Blood Donation Drive",
+    "city": "Erode",
+    "lat": 11.3398,
+    "lng": 77.7158,
+    "date": "2025-09-16",
+    "time": "09:45 AM",
+    "organizer": "Rotary Club"
+  },
+  {
+    "name": "Lions Club of Erode Voluntary Camp",
+    "city": "Erode",
+    "lat": 11.3423,
+    "lng": 77.7185,
+    "date": "2025-09-20",
+    "time": "10:15 AM",
+    "organizer": "Lions Club International"
+  },
+  {
+    "name": "Community Health Blood Donation Camp",
+    "city": "Erode",
+    "lat": 11.3437,
+    "lng": 77.7169,
+    "date": "2025-09-24",
+    "time": "11:00 AM",
+    "organizer": "Community Health NGO"
+  },
+  {
+    "name": "Collectorate Office Erode Special Camp",
+    "city": "Erode",
+    "lat": 11.3419,
+    "lng": 77.7176,
+    "date": "2025-09-28",
+    "time": "09:15 AM",
+    "organizer": "District Administration"
+  },
+  {
+    "name": "NSS Blood Donation Drive at Erode Arts College",
+    "city": "Erode",
+    "lat": 11.3445,
+    "lng": 77.7201,
+    "date": "2025-10-02",
+    "time": "10:30 AM",
+    "organizer": "Erode Arts College NSS"
+  },
+  {
+    "name": "Mother Teresa Trust Blood Camp",
+    "city": "Erode",
+    "lat": 11.3392,
+    "lng": 77.7150,
+    "date": "2025-10-06",
+    "time": "09:00 AM",
+    "organizer": "Mother Teresa Trust"
+  },
+  {
+    "name": "General Hospital Erode Extension Camp",
+    "city": "Erode",
+    "lat": 11.3427,
+    "lng": 77.7189,
+    "date": "2025-10-11",
+    "time": "11:30 AM",
+    "organizer": "GH Blood Bank"
+  },
+  {
+    "name": "Youth Volunteers Blood Donation Drive",
+    "city": "Erode",
+    "lat": 11.3414,
+    "lng": 77.7178,
+    "date": "2025-10-16",
+    "time": "10:45 AM",
+    "organizer": "Youth Volunteers Association"
+  },
+  {
+    "name": "Kallakurichi Government Hospital Blood Camp",
+    "city": "Kallakurichi",
+    "lat": 11.7400,
+    "lng": 78.9590,
+    "date": "2025-09-08",
+    "time": "09:30 AM",
+    "organizer": "Government Hospital"
+  },
+  {
+    "name": "Red Cross Blood Donation Drive Kallakurichi",
+    "city": "Kallakurichi",
+    "lat": 11.7392,
+    "lng": 78.9602,
+    "date": "2025-09-12",
+    "time": "10:00 AM",
+    "organizer": "Indian Red Cross Society"
+  },
+  {
+    "name": "Rotary Club of Kallakurichi Camp",
+    "city": "Kallakurichi",
+    "lat": 11.7415,
+    "lng": 78.9578,
+    "date": "2025-09-17",
+    "time": "09:45 AM",
+    "organizer": "Rotary Club"
+  },
+  {
+    "name": "Lions Club Special Blood Donation Camp",
+    "city": "Kallakurichi",
+    "lat": 11.7420,
+    "lng": 78.9589,
+    "date": "2025-09-21",
+    "time": "10:15 AM",
+    "organizer": "Lions Club International"
+  },
+  {
+    "name": "Community Health Awareness Blood Camp",
+    "city": "Kallakurichi",
+    "lat": 11.7398,
+    "lng": 78.9597,
+    "date": "2025-09-25",
+    "time": "11:00 AM",
+    "organizer": "Community Health NGO"
+  },
+  {
+    "name": "Collectorate Office Kallakurichi Mega Camp",
+    "city": "Kallakurichi",
+    "lat": 11.7412,
+    "lng": 78.9584,
+    "date": "2025-09-29",
+    "time": "09:15 AM",
+    "organizer": "District Administration"
+  },
+  {
+    "name": "Government Arts College Kallakurichi NSS Camp",
+    "city": "Kallakurichi",
+    "lat": 11.7408,
+    "lng": 78.9601,
+    "date": "2025-10-03",
+    "time": "10:30 AM",
+    "organizer": "NSS Unit"
+  },
+  {
+    "name": "Sri Ram Trust Blood Donation Drive",
+    "city": "Kallakurichi",
+    "lat": 11.7395,
+    "lng": 78.9592,
+    "date": "2025-10-07",
+    "time": "09:00 AM",
+    "organizer": "Sri Ram Trust"
+  },
+  {
+    "name": "General Hospital Kallakurichi Special Camp",
+    "city": "Kallakurichi",
+    "lat": 11.7406,
+    "lng": 78.9586,
+    "date": "2025-10-12",
+    "time": "11:30 AM",
+    "organizer": "GH Blood Bank"
+  },
+  {
+    "name": "Youth Club Kallakurichi Blood Donation Camp",
+    "city": "Kallakurichi",
+    "lat": 11.7419,
+    "lng": 78.9605,
+    "date": "2025-10-17",
+    "time": "10:45 AM",
+    "organizer": "Youth Volunteers Club"
+  },
+  {
+    "name": "Kancheepuram Government Hospital Blood Camp",
+    "city": "Kancheepuram",
+    "lat": 12.8350,
+    "lng": 79.7000,
+    "date": "2025-09-09",
+    "time": "09:30 AM",
+    "organizer": "Government Hospital"
+  },
+  {
+    "name": "Indian Red Cross Society Camp Kancheepuram",
+    "city": "Kancheepuram",
+    "lat": 12.8385,
+    "lng": 79.7042,
+    "date": "2025-09-13",
+    "time": "10:00 AM",
+    "organizer": "Indian Red Cross"
+  },
+  {
+    "name": "Rotary Club of Kancheepuram Blood Donation Drive",
+    "city": "Kancheepuram",
+    "lat": 12.8372,
+    "lng": 79.7025,
+    "date": "2025-09-18",
+    "time": "09:45 AM",
+    "organizer": "Rotary Club"
+  },
+  {
+    "name": "Lions Club Mega Camp Kancheepuram",
+    "city": "Kancheepuram",
+    "lat": 12.8368,
+    "lng": 79.7014,
+    "date": "2025-09-22",
+    "time": "10:15 AM",
+    "organizer": "Lions Club International"
+  },
+  {
+    "name": "Community Health Awareness Camp Kancheepuram",
+    "city": "Kancheepuram",
+    "lat": 12.8347,
+    "lng": 79.7050,
+    "date": "2025-09-26",
+    "time": "11:00 AM",
+    "organizer": "Community Health NGO"
+  },
+  {
+    "name": "District Collectorate Kancheepuram Camp",
+    "city": "Kancheepuram",
+    "lat": 12.8391,
+    "lng": 79.7033,
+    "date": "2025-09-30",
+    "time": "09:15 AM",
+    "organizer": "District Administration"
+  },
+  {
+    "name": "Meenakshi Medical College Blood Donation Camp",
+    "city": "Kancheepuram",
+    "lat": 12.8402,
+    "lng": 79.7061,
+    "date": "2025-10-04",
+    "time": "10:30 AM",
+    "organizer": "Medical College NSS"
+  },
+  {
+    "name": "Sri Kanchi Kamakoti Trust Camp",
+    "city": "Kancheepuram",
+    "lat": 12.8359,
+    "lng": 79.7047,
+    "date": "2025-10-08",
+    "time": "09:00 AM",
+    "organizer": "Sri Kanchi Kamakoti Trust"
+  },
+  {
+    "name": "General Hospital Kancheepuram Special Camp",
+    "city": "Kancheepuram",
+    "lat": 12.8377,
+    "lng": 79.7020,
+    "date": "2025-10-13",
+    "time": "11:30 AM",
+    "organizer": "GH Blood Bank"
+  },
+  {
+    "name": "Youth Club Kancheepuram Blood Camp",
+    "city": "Kancheepuram",
+    "lat": 12.8362,
+    "lng": 79.7058,
+    "date": "2025-10-18",
+    "time": "10:45 AM",
+    "organizer": "Youth Volunteers Club"
+  },
+  {
+    "name": "Kanniyakumari Government Medical College Camp",
+    "city": "Kanniyakumari",
+    "lat": 8.0883,
+    "lng": 77.5495,
+    "date": "2025-09-10",
+    "time": "09:30 AM",
+    "organizer": "Government Medical College"
+  },
+  {
+    "name": "Red Cross Society Blood Donation Camp Kanniyakumari",
+    "city": "Kanniyakumari",
+    "lat": 8.0857,
+    "lng": 77.5480,
+    "date": "2025-09-14",
+    "time": "10:00 AM",
+    "organizer": "Indian Red Cross"
+  },
+  {
+    "name": "Rotary Club of Kanniyakumari Blood Drive",
+    "city": "Kanniyakumari",
+    "lat": 8.0871,
+    "lng": 77.5502,
+    "date": "2025-09-19",
+    "time": "09:45 AM",
+    "organizer": "Rotary Club"
+  },
+  {
+    "name": "Lions Club Mega Blood Camp Kanniyakumari",
+    "city": "Kanniyakumari",
+    "lat": 8.0864,
+    "lng": 77.5511,
+    "date": "2025-09-23",
+    "time": "10:15 AM",
+    "organizer": "Lions Club International"
+  },
+  {
+    "name": "Community Health Awareness Camp Kanniyakumari",
+    "city": "Kanniyakumari",
+    "lat": 8.0890,
+    "lng": 77.5520,
+    "date": "2025-09-27",
+    "time": "11:00 AM",
+    "organizer": "Community Health NGO"
+  },
+  {
+    "name": "District Collectorate Kanniyakumari Blood Camp",
+    "city": "Kanniyakumari",
+    "lat": 8.0905,
+    "lng": 77.5489,
+    "date": "2025-10-01",
+    "time": "09:15 AM",
+    "organizer": "District Administration"
+  },
+  {
+    "name": "Nagercoil Government Hospital Special Camp",
+    "city": "Kanniyakumari",
+    "lat": 8.1828,
+    "lng": 77.4340,
+    "date": "2025-10-05",
+    "time": "10:30 AM",
+    "organizer": "GH Blood Bank"
+  },
+  {
+    "name": "Youth Club Kanniyakumari Donation Drive",
+    "city": "Kanniyakumari",
+    "lat": 8.0877,
+    "lng": 77.5508,
+    "date": "2025-10-09",
+    "time": "09:00 AM",
+    "organizer": "Youth Volunteers"
+  },
+  {
+    "name": "Church Trust Kanniyakumari Blood Camp",
+    "city": "Kanniyakumari",
+    "lat": 8.0869,
+    "lng": 77.5472,
+    "date": "2025-10-14",
+    "time": "11:30 AM",
+    "organizer": "Local Church Trust"
+  },
+  {
+    "name": "College NSS Unit Blood Donation Kanniyakumari",
+    "city": "Kanniyakumari",
+    "lat": 8.0885,
+    "lng": 77.5498,
+    "date": "2025-10-19",
+    "time": "10:45 AM",
+    "organizer": "NSS Volunteers"
+  },
+  {
+    "name": "Karur Government Medical College Blood Camp",
+    "city": "Karur",
+    "lat": 10.9601,
+    "lng": 78.0766,
+    "date": "2025-09-12",
+    "time": "09:30 AM",
+    "organizer": "Government Medical College"
+  },
+  {
+    "name": "Rotary Club of Karur Blood Donation Drive",
+    "city": "Karur",
+    "lat": 10.9609,
+    "lng": 78.0812,
+    "date": "2025-09-15",
+    "time": "10:00 AM",
+    "organizer": "Rotary Club"
+  },
+  {
+    "name": "Indian Red Cross Karur Blood Camp",
+    "city": "Karur",
+    "lat": 10.9625,
+    "lng": 78.0779,
+    "date": "2025-09-20",
+    "time": "09:45 AM",
+    "organizer": "Indian Red Cross Society"
+  },
+  {
+    "name": "Lions Club Karur Mega Camp",
+    "city": "Karur",
+    "lat": 10.9597,
+    "lng": 78.0798,
+    "date": "2025-09-25",
+    "time": "10:15 AM",
+    "organizer": "Lions Club International"
+  },
+  {
+    "name": "District Collectorate Karur Blood Donation",
+    "city": "Karur",
+    "lat": 10.9611,
+    "lng": 78.0786,
+    "date": "2025-09-29",
+    "time": "11:00 AM",
+    "organizer": "District Administration"
+  },
+  {
+    "name": "Karur GH Special Blood Donation Camp",
+    "city": "Karur",
+    "lat": 10.9628,
+    "lng": 78.0803,
+    "date": "2025-10-03",
+    "time": "09:15 AM",
+    "organizer": "Government Hospital"
+  },
+  {
+    "name": "Karur Polytechnic College NSS Blood Camp",
+    "city": "Karur",
+    "lat": 10.9642,
+    "lng": 78.0770,
+    "date": "2025-10-07",
+    "time": "10:30 AM",
+    "organizer": "NSS Volunteers"
+  },
+  {
+    "name": "Community Health Awareness Camp Karur",
+    "city": "Karur",
+    "lat": 10.9630,
+    "lng": 78.0789,
+    "date": "2025-10-12",
+    "time": "09:00 AM",
+    "organizer": "Community Health NGO"
+  },
+  {
+    "name": "Karur Youth Club Blood Donation Drive",
+    "city": "Karur",
+    "lat": 10.9618,
+    "lng": 78.0809,
+    "date": "2025-10-16",
+    "time": "11:30 AM",
+    "organizer": "Youth Volunteers"
+  },
+  {
+    "name": "Karur Temple Trust Blood Donation",
+    "city": "Karur",
+    "lat": 10.9605,
+    "lng": 78.0791,
+    "date": "2025-10-20",
+    "time": "10:45 AM",
+    "organizer": "Local Temple Trust"
+  },
+  {
+    "name": "Krishnagiri GH Blood Donation Camp",
+    "city": "Krishnagiri",
+    "lat": 12.5191,
+    "lng": 78.2137,
+    "date": "2025-09-10",
+    "time": "09:30 AM",
+    "organizer": "Government Hospital"
+  },
+  {
+    "name": "Rotary Club Krishnagiri Blood Drive",
+    "city": "Krishnagiri",
+    "lat": 12.5235,
+    "lng": 78.2179,
+    "date": "2025-09-14",
+    "time": "10:00 AM",
+    "organizer": "Rotary Club"
+  },
+  {
+    "name": "Indian Red Cross Society Krishnagiri Camp",
+    "city": "Krishnagiri",
+    "lat": 12.5222,
+    "lng": 78.2150,
+    "date": "2025-09-18",
+    "time": "09:45 AM",
+    "organizer": "Indian Red Cross"
+  },
+  {
+    "name": "Lions Club Krishnagiri Mega Camp",
+    "city": "Krishnagiri",
+    "lat": 12.5208,
+    "lng": 78.2193,
+    "date": "2025-09-22",
+    "time": "11:00 AM",
+    "organizer": "Lions Club International"
+  },
+  {
+    "name": "District Collectorate Krishnagiri Blood Drive",
+    "city": "Krishnagiri",
+    "lat": 12.5186,
+    "lng": 78.2128,
+    "date": "2025-09-25",
+    "time": "10:30 AM",
+    "organizer": "District Administration"
+  },
+  {
+    "name": "Krishnagiri Polytechnic College NSS Camp",
+    "city": "Krishnagiri",
+    "lat": 12.5247,
+    "lng": 78.2161,
+    "date": "2025-09-29",
+    "time": "09:15 AM",
+    "organizer": "NSS Volunteers"
+  },
+  {
+    "name": "Community Health Awareness Blood Camp Krishnagiri",
+    "city": "Krishnagiri",
+    "lat": 12.5213,
+    "lng": 78.2144,
+    "date": "2025-10-02",
+    "time": "09:00 AM",
+    "organizer": "Community Health NGO"
+  },
+  {
+    "name": "Youth Club Blood Donation Drive Krishnagiri",
+    "city": "Krishnagiri",
+    "lat": 12.5228,
+    "lng": 78.2182,
+    "date": "2025-10-06",
+    "time": "10:45 AM",
+    "organizer": "Youth Volunteers"
+  },
+  {
+    "name": "Krishnagiri Temple Trust Camp",
+    "city": "Krishnagiri",
+    "lat": 12.5199,
+    "lng": 78.2167,
+    "date": "2025-10-10",
+    "time": "11:15 AM",
+    "organizer": "Temple Trust"
+  },
+  {
+    "name": "Government Arts College Krishnagiri Blood Donation",
+    "city": "Krishnagiri",
+    "lat": 12.5231,
+    "lng": 78.2139,
+    "date": "2025-10-14",
+    "time": "10:00 AM",
+    "organizer": "College NSS Unit"
+  },
+  {
+    "name": "Madurai Rajaji GH Blood Donation Camp",
+    "city": "Madurai",
+    "lat": 9.9252,
+    "lng": 78.1198,
+    "date": "2025-09-12",
+    "time": "09:00 AM",
+    "organizer": "Government Rajaji Hospital"
+  },
+  {
+    "name": "Rotary Club of Madurai West Blood Drive",
+    "city": "Madurai",
+    "lat": 9.9284,
+    "lng": 78.1243,
+    "date": "2025-09-15",
+    "time": "10:00 AM",
+    "organizer": "Rotary Club"
+  },
+  {
+    "name": "Indian Red Cross Society Madurai Camp",
+    "city": "Madurai",
+    "lat": 9.9271,
+    "lng": 78.1210,
+    "date": "2025-09-19",
+    "time": "09:30 AM",
+    "organizer": "Indian Red Cross"
+  },
+  {
+    "name": "Lions Club Madurai Mega Blood Donation",
+    "city": "Madurai",
+    "lat": 9.9292,
+    "lng": 78.1186,
+    "date": "2025-09-23",
+    "time": "11:00 AM",
+    "organizer": "Lions Club International"
+  },
+  {
+    "name": "Madurai Kamaraj University NSS Camp",
+    "city": "Madurai",
+    "lat": 9.9380,
+    "lng": 78.1247,
+    "date": "2025-09-26",
+    "time": "09:15 AM",
+    "organizer": "NSS Volunteers"
+  },
+  {
+    "name": "District Collectorate Madurai Blood Drive",
+    "city": "Madurai",
+    "lat": 9.9241,
+    "lng": 78.1215,
+    "date": "2025-09-30",
+    "time": "10:30 AM",
+    "organizer": "District Administration"
+  },
+  {
+    "name": "Apollo Speciality Hospital Madurai Blood Donation",
+    "city": "Madurai",
+    "lat": 9.9322,
+    "lng": 78.1256,
+    "date": "2025-10-04",
+    "time": "09:45 AM",
+    "organizer": "Apollo Hospital"
+  },
+  {
+    "name": "Youth Volunteers Blood Drive Madurai",
+    "city": "Madurai",
+    "lat": 9.9267,
+    "lng": 78.1224,
+    "date": "2025-10-08",
+    "time": "10:15 AM",
+    "organizer": "Youth Club Madurai"
+  },
+  {
+    "name": "Madurai Meenakshi Temple Trust Blood Camp",
+    "city": "Madurai",
+    "lat": 9.9195,
+    "lng": 78.1192,
+    "date": "2025-10-12",
+    "time": "11:30 AM",
+    "organizer": "Temple Trust"
+  },
+  {
+    "name": "Madurai Medical College Blood Donation Drive",
+    "city": "Madurai",
+    "lat": 9.9299,
+    "lng": 78.1270,
+    "date": "2025-10-16",
+    "time": "10:00 AM",
+    "organizer": "Medical College NSS"
+  },
+  {
+    "name": "Mayiladuthurai GH Blood Donation Camp",
+    "city": "Mayiladuthurai",
+    "lat": 11.1030,
+    "lng": 79.6550,
+    "date": "2025-09-14",
+    "time": "09:30 AM",
+    "organizer": "Government Hospital"
+  },
+  {
+    "name": "Rotary Club Mayiladuthurai Blood Drive",
+    "city": "Mayiladuthurai",
+    "lat": 11.1045,
+    "lng": 79.6580,
+    "date": "2025-09-18",
+    "time": "10:00 AM",
+    "organizer": "Rotary Club"
+  },
+  {
+    "name": "Indian Red Cross Mayiladuthurai Camp",
+    "city": "Mayiladuthurai",
+    "lat": 11.1060,
+    "lng": 79.6525,
+    "date": "2025-09-21",
+    "time": "09:15 AM",
+    "organizer": "Indian Red Cross"
+  },
+  {
+    "name": "Lions Club Mayiladuthurai Blood Donation",
+    "city": "Mayiladuthurai",
+    "lat": 11.1015,
+    "lng": 79.6572,
+    "date": "2025-09-25",
+    "time": "11:00 AM",
+    "organizer": "Lions Club International"
+  },
+  {
+    "name": "Mayiladuthurai College NSS Blood Drive",
+    "city": "Mayiladuthurai",
+    "lat": 11.1090,
+    "lng": 79.6595,
+    "date": "2025-09-28",
+    "time": "09:45 AM",
+    "organizer": "NSS Unit"
+  },
+  {
+    "name": "District Collector Office Blood Donation",
+    "city": "Mayiladuthurai",
+    "lat": 11.1022,
+    "lng": 79.6548,
+    "date": "2025-10-01",
+    "time": "10:30 AM",
+    "organizer": "District Administration"
+  },
+  {
+    "name": "Mayiladuthurai Youth Club Camp",
+    "city": "Mayiladuthurai",
+    "lat": 11.1077,
+    "lng": 79.6534,
+    "date": "2025-10-05",
+    "time": "09:20 AM",
+    "organizer": "Youth Volunteers"
+  },
+  {
+    "name": "Sundaram Hospital Mayiladuthurai Blood Drive",
+    "city": "Mayiladuthurai",
+    "lat": 11.1050,
+    "lng": 79.6567,
+    "date": "2025-10-09",
+    "time": "10:15 AM",
+    "organizer": "Sundaram Hospital"
+  },
+  {
+    "name": "Mayiladuthurai Traders Association Camp",
+    "city": "Mayiladuthurai",
+    "lat": 11.1035,
+    "lng": 79.6558,
+    "date": "2025-10-13",
+    "time": "11:30 AM",
+    "organizer": "Local Traders Association"
+  },
+  {
+    "name": "Mayiladuthurai Polytechnic College Blood Drive",
+    "city": "Mayiladuthurai",
+    "lat": 11.1088,
+    "lng": 79.6579,
+    "date": "2025-10-16",
+    "time": "10:00 AM",
+    "organizer": "Polytechnic NSS Unit"
+  },
+  {
+    "name": "Nagapattinam GH Blood Donation Camp",
+    "city": "Nagapattinam",
+    "lat": 10.7645,
+    "lng": 79.8432,
+    "date": "2025-09-20",
+    "time": "09:30 AM",
+    "organizer": "Government Hospital"
+  },
+  {
+    "name": "Rotary Club Nagapattinam Blood Drive",
+    "city": "Nagapattinam",
+    "lat": 10.7632,
+    "lng": 79.8470,
+    "date": "2025-09-23",
+    "time": "10:00 AM",
+    "organizer": "Rotary Club"
+  },
+  {
+    "name": "Indian Red Cross Nagapattinam Camp",
+    "city": "Nagapattinam",
+    "lat": 10.7655,
+    "lng": 79.8455,
+    "date": "2025-09-27",
+    "time": "09:15 AM",
+    "organizer": "Indian Red Cross"
+  },
+  {
+    "name": "Lions Club Nagapattinam Blood Donation",
+    "city": "Nagapattinam",
+    "lat": 10.7610,
+    "lng": 79.8495,
+    "date": "2025-09-30",
+    "time": "11:00 AM",
+    "organizer": "Lions Club International"
+  },
+  {
+    "name": "Nagapattinam College NSS Blood Drive",
+    "city": "Nagapattinam",
+    "lat": 10.7680,
+    "lng": 79.8425,
+    "date": "2025-10-03",
+    "time": "09:45 AM",
+    "organizer": "NSS Unit"
+  },
+  {
+    "name": "District Collector Office Blood Donation",
+    "city": "Nagapattinam",
+    "lat": 10.7628,
+    "lng": 79.8462,
+    "date": "2025-10-06",
+    "time": "10:30 AM",
+    "organizer": "District Administration"
+  },
+  {
+    "name": "Nagapattinam Youth Club Camp",
+    "city": "Nagapattinam",
+    "lat": 10.7640,
+    "lng": 79.8440,
+    "date": "2025-10-10",
+    "time": "09:20 AM",
+    "organizer": "Youth Volunteers"
+  },
+  {
+    "name": "Apollo Clinic Nagapattinam Blood Drive",
+    "city": "Nagapattinam",
+    "lat": 10.7662,
+    "lng": 79.8438,
+    "date": "2025-10-14",
+    "time": "10:15 AM",
+    "organizer": "Apollo Clinic"
+  },
+  {
+    "name": "Nagapattinam Traders Association Camp",
+    "city": "Nagapattinam",
+    "lat": 10.7637,
+    "lng": 79.8478,
+    "date": "2025-10-18",
+    "time": "11:30 AM",
+    "organizer": "Local Traders Association"
+  },
+  {
+    "name": "Nagapattinam Polytechnic College Blood Drive",
+    "city": "Nagapattinam",
+    "lat": 10.7675,
+    "lng": 79.8415,
+    "date": "2025-10-21",
+    "time": "10:00 AM",
+    "organizer": "Polytechnic NSS Unit"
+  },
+  {
+    "name": "Namakkal GH Blood Donation Camp",
+    "city": "Namakkal",
+    "lat": 11.2212,
+    "lng": 78.1671,
+    "date": "2025-09-22",
+    "time": "09:30 AM",
+    "organizer": "Government Hospital"
+  },
+  {
+    "name": "Rotary Club Namakkal Blood Drive",
+    "city": "Namakkal",
+    "lat": 11.2228,
+    "lng": 78.1695,
+    "date": "2025-09-25",
+    "time": "10:00 AM",
+    "organizer": "Rotary Club"
+  },
+  {
+    "name": "Indian Red Cross Namakkal Camp",
+    "city": "Namakkal",
+    "lat": 11.2240,
+    "lng": 78.1652,
+    "date": "2025-09-28",
+    "time": "09:15 AM",
+    "organizer": "Indian Red Cross"
+  },
+  {
+    "name": "Lions Club Namakkal Blood Donation",
+    "city": "Namakkal",
+    "lat": 11.2252,
+    "lng": 78.1668,
+    "date": "2025-10-01",
+    "time": "11:00 AM",
+    "organizer": "Lions Club International"
+  },
+  {
+    "name": "Namakkal College NSS Blood Drive",
+    "city": "Namakkal",
+    "lat": 11.2261,
+    "lng": 78.1700,
+    "date": "2025-10-04",
+    "time": "09:45 AM",
+    "organizer": "NSS Unit"
+  },
+  {
+    "name": "District Collector Office Blood Donation",
+    "city": "Namakkal",
+    "lat": 11.2234,
+    "lng": 78.1682,
+    "date": "2025-10-07",
+    "time": "10:30 AM",
+    "organizer": "District Administration"
+  },
+  {
+    "name": "Namakkal Youth Club Camp",
+    "city": "Namakkal",
+    "lat": 11.2270,
+    "lng": 78.1675,
+    "date": "2025-10-11",
+    "time": "09:20 AM",
+    "organizer": "Youth Volunteers"
+  },
+  {
+    "name": "Apollo Clinic Namakkal Blood Drive",
+    "city": "Namakkal",
+    "lat": 11.2205,
+    "lng": 78.1660,
+    "date": "2025-10-15",
+    "time": "10:15 AM",
+    "organizer": "Apollo Clinic"
+  },
+  {
+    "name": "Namakkal Traders Association Camp",
+    "city": "Namakkal",
+    "lat": 11.2247,
+    "lng": 78.1711,
+    "date": "2025-10-19",
+    "time": "11:30 AM",
+    "organizer": "Local Traders Association"
+  },
+  {
+    "name": "Namakkal Polytechnic College Blood Drive",
+    "city": "Namakkal",
+    "lat": 11.2280,
+    "lng": 78.1690,
+    "date": "2025-10-22",
+    "time": "10:00 AM",
+    "organizer": "Polytechnic NSS Unit"
+  },
+  {
+    "name": "Ooty Government Hospital Blood Camp",
+    "city": "Nilgiris",
+    "lat": 11.4064,
+    "lng": 76.6932,
+    "date": "2025-09-24",
+    "time": "09:30 AM",
+    "organizer": "Government Hospital"
+  },
+  {
+    "name": "Rotary Club Nilgiris Blood Donation",
+    "city": "Nilgiris",
+    "lat": 11.4080,
+    "lng": 76.6945,
+    "date": "2025-09-27",
+    "time": "10:15 AM",
+    "organizer": "Rotary Club"
+  },
+  {
+    "name": "Indian Red Cross Nilgiris Drive",
+    "city": "Nilgiris",
+    "lat": 11.4075,
+    "lng": 76.6910,
+    "date": "2025-09-30",
+    "time": "09:45 AM",
+    "organizer": "Indian Red Cross"
+  },
+  {
+    "name": "Lions Club Nilgiris Camp",
+    "city": "Nilgiris",
+    "lat": 11.4058,
+    "lng": 76.6925,
+    "date": "2025-10-03",
+    "time": "10:00 AM",
+    "organizer": "Lions Club International"
+  },
+  {
+    "name": "Nilgiris College Blood Donation",
+    "city": "Nilgiris",
+    "lat": 11.4047,
+    "lng": 76.6952,
+    "date": "2025-10-06",
+    "time": "11:15 AM",
+    "organizer": "NSS Unit"
+  },
+  {
+    "name": "Nilgiris Youth Club Blood Drive",
+    "city": "Nilgiris",
+    "lat": 11.4030,
+    "lng": 76.6968,
+    "date": "2025-10-09",
+    "time": "09:30 AM",
+    "organizer": "Youth Volunteers"
+  },
+  {
+    "name": "District Collector Office Nilgiris Camp",
+    "city": "Nilgiris",
+    "lat": 11.4095,
+    "lng": 76.6902,
+    "date": "2025-10-12",
+    "time": "10:45 AM",
+    "organizer": "District Administration"
+  },
+  {
+    "name": "CMC Nilgiris Blood Donation",
+    "city": "Nilgiris",
+    "lat": 11.4021,
+    "lng": 76.6940,
+    "date": "2025-10-15",
+    "time": "09:15 AM",
+    "organizer": "Christian Medical Centre"
+  },
+  {
+    "name": "Nilgiris Public School Blood Camp",
+    "city": "Nilgiris",
+    "lat": 11.4068,
+    "lng": 76.6975,
+    "date": "2025-10-18",
+    "time": "10:20 AM",
+    "organizer": "School Management"
+  },
+  {
+    "name": "Nilgiris Traders Association Blood Drive",
+    "city": "Nilgiris",
+    "lat": 11.4050,
+    "lng": 76.6989,
+    "date": "2025-10-21",
+    "time": "11:00 AM",
+    "organizer": "Local Traders Association"
+  },
+  {
+    "name": "Perambalur Government Hospital Blood Camp",
+    "city": "Perambalur",
+    "lat": 11.2330,
+    "lng": 78.8830,
+    "date": "2025-09-25",
+    "time": "09:30 AM",
+    "organizer": "Government Hospital"
+  },
+  {
+    "name": "Rotary Club Perambalur Blood Donation",
+    "city": "Perambalur",
+    "lat": 11.2315,
+    "lng": 78.8845,
+    "date": "2025-09-28",
+    "time": "10:00 AM",
+    "organizer": "Rotary Club"
+  },
+  {
+    "name": "Indian Red Cross Perambalur Drive",
+    "city": "Perambalur",
+    "lat": 11.2325,
+    "lng": 78.8822,
+    "date": "2025-10-01",
+    "time": "09:45 AM",
+    "organizer": "Indian Red Cross"
+  },
+  {
+    "name": "Lions Club Perambalur Camp",
+    "city": "Perambalur",
+    "lat": 11.2340,
+    "lng": 78.8800,
+    "date": "2025-10-04",
+    "time": "10:15 AM",
+    "organizer": "Lions Club International"
+  },
+  {
+    "name": "Perambalur College Blood Donation",
+    "city": "Perambalur",
+    "lat": 11.2302,
+    "lng": 78.8855,
+    "date": "2025-10-07",
+    "time": "11:00 AM",
+    "organizer": "NSS Unit"
+  },
+  {
+    "name": "Perambalur Youth Club Blood Drive",
+    "city": "Perambalur",
+    "lat": 11.2295,
+    "lng": 78.8868,
+    "date": "2025-10-10",
+    "time": "09:20 AM",
+    "organizer": "Youth Volunteers"
+  },
+  {
+    "name": "District Collector Office Perambalur Camp",
+    "city": "Perambalur",
+    "lat": 11.2360,
+    "lng": 78.8810,
+    "date": "2025-10-13",
+    "time": "10:40 AM",
+    "organizer": "District Administration"
+  },
+  {
+    "name": "CMC Perambalur Blood Donation",
+    "city": "Perambalur",
+    "lat": 11.2285,
+    "lng": 78.8875,
+    "date": "2025-10-16",
+    "time": "09:50 AM",
+    "organizer": "Christian Medical Centre"
+  },
+  {
+    "name": "Perambalur Public School Blood Camp",
+    "city": "Perambalur",
+    "lat": 11.2320,
+    "lng": 78.8890,
+    "date": "2025-10-19",
+    "time": "10:30 AM",
+    "organizer": "School Management"
+  },
+  {
+    "name": "Perambalur Traders Association Blood Drive",
+    "city": "Perambalur",
+    "lat": 11.2338,
+    "lng": 78.8905,
+    "date": "2025-10-22",
+    "time": "11:10 AM",
+    "organizer": "Local Traders Association"
+  },
+  {
+    "name": "Government District Headquarters Hospital Blood Bank",
+    "city": "Ramanathapuram",
+    "lat": 9.3640,
+    "lng": 78.8375,
+    "date": "2025-09-05",
+    "time": "10:00 AM",
+    "organizer": "Government Hospital"
+  },
+  {
+    "name": "Indian Red Cross Society Blood Bank",
+    "city": "Ramanathapuram",
+    "lat": 9.3704,
+    "lng": 78.8336,
+    "date": "2025-09-07",
+    "time": "2:30 PM",
+    "organizer": "Indian Red Cross Society"
+  },
+  {
+    "name": "Meenakshi Mission Hospital & Research Centre Blood Donation Camp",
+    "city": "Ramanathapuram",
+    "lat": 9.3685,
+    "lng": 78.8327,
+    "date": "2025-09-10",
+    "time": "11:15 AM",
+    "organizer": "Meenakshi Mission Hospital"
+  },
+  {
+    "name": "Lions Club of Ramanathapuram Blood Donation Drive",
+    "city": "Ramanathapuram",
+    "lat": 9.3651,
+    "lng": 78.8399,
+    "date": "2025-09-12",
+    "time": "3:00 PM",
+    "organizer": "Lions Club"
+  },
+  {
+    "name": "Apollo Hospitals Voluntary Blood Donation Camp",
+    "city": "Ramanathapuram",
+    "lat": 9.3722,
+    "lng": 78.8365,
+    "date": "2025-09-15",
+    "time": "9:30 AM",
+    "organizer": "Apollo Hospitals"
+  },
+  {
+    "name": "Ramanathapuram Medical College Blood Bank Camp",
+    "city": "Ramanathapuram",
+    "lat": 9.3667,
+    "lng": 78.8342,
+    "date": "2025-09-18",
+    "time": "2:00 PM",
+    "organizer": "Ramanathapuram Medical College"
+  },
+  {
+    "name": "Rotary Blood Bank Mobile Camp",
+    "city": "Ramanathapuram",
+    "lat": 9.3635,
+    "lng": 78.8384,
+    "date": "2025-09-20",
+    "time": "10:45 AM",
+    "organizer": "Rotary Club"
+  },
+  {
+    "name": "Velammal Hospital Blood Donation Camp",
+    "city": "Ramanathapuram",
+    "lat": 9.3698,
+    "lng": 78.8312,
+    "date": "2025-09-23",
+    "time": "4:00 PM",
+    "organizer": "Velammal Hospitals"
+  },
+  {
+    "name": "Youth Red Cross Blood Camp",
+    "city": "Ramanathapuram",
+    "lat": 9.3674,
+    "lng": 78.8358,
+    "date": "2025-09-26",
+    "time": "11:30 AM",
+    "organizer": "Youth Red Cross"
+  },
+  {
+    "name": "Ramanathapuram Government Women & Children Hospital Blood Donation Drive",
+    "city": "Ramanathapuram",
+    "lat": 9.3627,
+    "lng": 78.8401,
+    "date": "2025-09-29",
+    "time": "3:15 PM",
+    "organizer": "Government W&C Hospital"
+  },
+  {
+    "name": "Government Headquarters Hospital Blood Bank",
+    "city": "Ranipet",
+    "lat": 12.9766,
+    "lng": 79.2906,
+    "date": "2025-09-05",
+    "time": "09:00 AM",
+    "organizer": "Government Hospital"
+  },
+  {
+    "name": "Indian Red Cross Society Blood Donation Camp",
+    "city": "Ranipet",
+    "lat": 12.9775,
+    "lng": 79.2915,
+    "date": "2025-09-08",
+    "time": "11:00 AM",
+    "organizer": "Indian Red Cross Society"
+  },
+  {
+    "name": "Sri Balaji Action Medical Institute (Blood Bank)",
+    "city": "Ranipet",
+    "lat": 12.9752,
+    "lng": 79.2920,
+    "date": "2025-09-11",
+    "time": "02:00 PM",
+    "organizer": "Action Group"
+  },
+  {
+    "name": "GATI Diagnostics & Blood Bank",
+    "city": "Ranipet",
+    "lat": 12.9780,
+    "lng": 79.2888,
+    "date": "2025-09-14",
+    "time": "10:30 AM",
+    "organizer": "GATI Diagnostics"
+  },
+  {
+    "name": "National Hospital Blood Donation Camp",
+    "city": "Ranipet",
+    "lat": 12.9791,
+    "lng": 79.2897,
+    "date": "2025-09-17",
+    "time": "01:00 PM",
+    "organizer": "National Hospital"
+  },
+  {
+    "name": "Govt Taluk Hospital Walajahpet Blood Camp",
+    "city": "Ranipet",
+    "lat": 12.9350,
+    "lng": 79.3350,
+    "date": "2025-09-20",
+    "time": "09:45 AM",
+    "organizer": "Government Taluk Hospital"
+  },
+  {
+    "name": "Periyar Hospital Blood Donation Event",
+    "city": "Ranipet",
+    "lat": 12.9778,
+    "lng": 79.2933,
+    "date": "2025-09-23",
+    "time": "11:15 AM",
+    "organizer": "Periyar Hospital"
+  },
+  {
+    "name": "Mahakavi Bharathiyar Memorial Hospital Camp",
+    "city": "Ranipet",
+    "lat": 12.9760,
+    "lng": 79.2950,
+    "date": "2025-09-26",
+    "time": "03:00 PM",
+    "organizer": "Mahakavi Bharathiyar Memorial Hospital"
+  },
+  {
+    "name": "St. Mary’s Hospital Blood Donation Drive",
+    "city": "Ranipet",
+    "lat": 12.9785,
+    "lng": 79.2872,
+    "date": "2025-09-29",
+    "time": "10:00 AM",
+    "organizer": "St. Mary's Hospital"
+  },
+  {
+    "name": "Velammal Hospital Ranipet Blood Camp",
+    "city": "Ranipet",
+    "lat": 12.9755,
+    "lng": 79.2945,
+    "date": "2025-10-02",
+    "time": "12:00 PM",
+    "organizer": "Velammal Hospitals"
+  },
+  {
+    "name": "Government Mohan Kumaramangalam Medical College Hospital Blood Bank",
+    "city": "Salem",
+    "lat": 11.6643,
+    "lng": 78.1460,
+    "date": "2025-09-12",
+    "time": "10:00 AM",
+    "organizer": "Government Hospital"
+  },
+  {
+    "name": "Red Cross Blood Bank Salem",
+    "city": "Salem",
+    "lat": 11.6647,
+    "lng": 78.1461,
+    "date": "2025-09-18",
+    "time": "11:30 AM",
+    "organizer": "Indian Red Cross Society"
+  },
+  {
+    "name": "SKS Hospital Blood Bank",
+    "city": "Salem",
+    "lat": 11.6530,
+    "lng": 78.1535,
+    "date": "2025-09-22",
+    "time": "09:00 AM",
+    "organizer": "SKS Hospital"
+  },
+  {
+    "name": "Kavery Medical Centre Blood Bank",
+    "city": "Salem",
+    "lat": 11.6672,
+    "lng": 78.1554,
+    "date": "2025-09-27",
+    "time": "02:30 PM",
+    "organizer": "Kavery Medical Centre"
+  },
+  {
+    "name": "Manipal Hospital Blood Bank Salem",
+    "city": "Salem",
+    "lat": 11.6665,
+    "lng": 78.1456,
+    "date": "2025-10-01",
+    "time": "03:00 PM",
+    "organizer": "Manipal Hospital"
+  },
+  {
+    "name": "Deepam Hospitals Blood Bank",
+    "city": "Salem",
+    "lat": 11.6629,
+    "lng": 78.1478,
+    "date": "2025-10-06",
+    "time": "11:00 AM",
+    "organizer": "Deepam Hospitals"
+  },
+  {
+    "name": "Vinayaka Mission Medical College Blood Bank",
+    "city": "Salem",
+    "lat": 11.6852,
+    "lng": 78.1698,
+    "date": "2025-10-10",
+    "time": "09:30 AM",
+    "organizer": "Vinayaka Mission"
+  },
+  {
+    "name": "Kurinji Hospital Blood Bank",
+    "city": "Salem",
+    "lat": 11.6609,
+    "lng": 78.1445,
+    "date": "2025-10-15",
+    "time": "10:30 AM",
+    "organizer": "Kurinji Hospital"
+  },
+  {
+    "name": "Government Super Speciality Hospital Blood Bank Salem",
+    "city": "Salem",
+    "lat": 11.6635,
+    "lng": 78.1497,
+    "date": "2025-10-20",
+    "time": "01:00 PM",
+    "organizer": "Government Hospital"
+  },
+  {
+    "name": "Sri Gokulam Hospital Blood Bank",
+    "city": "Salem",
+    "lat": 11.6712,
+    "lng": 78.1523,
+    "date": "2025-10-25",
+    "time": "04:00 PM",
+    "organizer": "Sri Gokulam Hospital"
+  },
+  {
+    "name": "Government Sivaganga Medical College Hospital Blood Bank",
+    "city": "Sivaganga",
+    "lat": 9.8475,
+    "lng": 78.4830,
+    "date": "2025-09-14",
+    "time": "10:00 AM",
+    "organizer": "Government Hospital"
+  },
+  {
+    "name": "Indian Red Cross Society Blood Bank Sivaganga",
+    "city": "Sivaganga",
+    "lat": 9.8450,
+    "lng": 78.4805,
+    "date": "2025-09-19",
+    "time": "11:30 AM",
+    "organizer": "Indian Red Cross Society"
+  },
+  {
+    "name": "Government District Headquarters Hospital Blood Bank",
+    "city": "Karaikudi",
+    "lat": 10.0730,
+    "lng": 78.7800,
+    "date": "2025-09-23",
+    "time": "09:00 AM",
+    "organizer": "Govt. HQ Hospital"
+  },
+  {
+    "name": "Alagappa University NSS Blood Donation Camp",
+    "city": "Karaikudi",
+    "lat": 10.0890,
+    "lng": 78.7890,
+    "date": "2025-09-28",
+    "time": "02:00 PM",
+    "organizer": "Alagappa University NSS"
+  },
+  {
+    "name": "Velammal Medical College Blood Bank (Camp in Sivaganga)",
+    "city": "Sivaganga",
+    "lat": 9.8468,
+    "lng": 78.4820,
+    "date": "2025-10-03",
+    "time": "03:00 PM",
+    "organizer": "Velammal Medical College"
+  },
+  {
+    "name": "Karaikudi Lions Club Blood Donation Camp",
+    "city": "Karaikudi",
+    "lat": 10.0712,
+    "lng": 78.7835,
+    "date": "2025-10-08",
+    "time": "10:30 AM",
+    "organizer": "Lions Club of Karaikudi"
+  },
+  {
+    "name": "Sundaram Medical Foundation Blood Camp",
+    "city": "Sivaganga",
+    "lat": 9.8491,
+    "lng": 78.4817,
+    "date": "2025-10-12",
+    "time": "11:00 AM",
+    "organizer": "Sundaram Medical Foundation"
+  },
+  {
+    "name": "Raja Sir Annamalai Chettiar College NSS Camp",
+    "city": "Karaikudi",
+    "lat": 10.0721,
+    "lng": 78.7821,
+    "date": "2025-10-17",
+    "time": "09:30 AM",
+    "organizer": "R.S.A. College NSS"
+  },
+  {
+    "name": "Government Taluk Hospital Blood Camp",
+    "city": "Manamadurai",
+    "lat": 9.6760,
+    "lng": 78.4600,
+    "date": "2025-10-22",
+    "time": "01:00 PM",
+    "organizer": "Govt. Taluk Hospital"
+  },
+  {
+    "name": "Sri Ramachandra Charitable Trust Blood Camp",
+    "city": "Sivaganga",
+    "lat": 9.8483,
+    "lng": 78.4842,
+    "date": "2025-10-27",
+    "time": "04:00 PM",
+    "organizer": "Sri Ramachandra Charitable Trust"
+  },
+  {
+    "name": "Government District Headquarters Hospital Blood Bank",
+    "city": "Tenkasi",
+    "lat": 8.9599,
+    "lng": 77.3150,
+    "date": "2025-09-15",
+    "time": "10:00 AM",
+    "organizer": "Govt. HQ Hospital"
+  },
+  {
+    "name": "Indian Red Cross Society Blood Camp",
+    "city": "Tenkasi",
+    "lat": 8.9611,
+    "lng": 77.3142,
+    "date": "2025-09-19",
+    "time": "11:30 AM",
+    "organizer": "Indian Red Cross Society"
+  },
+  {
+    "name": "Government Taluk Hospital Blood Bank",
+    "city": "Shencottai",
+    "lat": 8.9700,
+    "lng": 77.2500,
+    "date": "2025-09-23",
+    "time": "09:30 AM",
+    "organizer": "Govt. Taluk Hospital"
+  },
+  {
+    "name": "Ayya Nadar Janaki Ammal College NSS Camp",
+    "city": "Sivakasi (Camp organized in Tenkasi region)",
+    "lat": 8.9550,
+    "lng": 77.3155,
+    "date": "2025-09-27",
+    "time": "02:00 PM",
+    "organizer": "ANJA College NSS"
+  },
+  {
+    "name": "Lions Club of Tenkasi Blood Donation Camp",
+    "city": "Tenkasi",
+    "lat": 8.9607,
+    "lng": 77.3147,
+    "date": "2025-10-02",
+    "time": "11:00 AM",
+    "organizer": "Lions Club"
+  },
+  {
+    "name": "Sankaranarayanan Eye Hospital Campus Blood Camp",
+    "city": "Tenkasi",
+    "lat": 8.9632,
+    "lng": 77.3189,
+    "date": "2025-10-06",
+    "time": "03:00 PM",
+    "organizer": "Sankaranarayanan Hospital"
+  },
+  {
+    "name": "Sri Paramakalyani College NSS Blood Donation Camp",
+    "city": "Alwarkurichi",
+    "lat": 8.7023,
+    "lng": 77.5071,
+    "date": "2025-10-11",
+    "time": "09:00 AM",
+    "organizer": "SPKC NSS Unit"
+  },
+  {
+    "name": "Rotary Club of Tenkasi Blood Camp",
+    "city": "Tenkasi",
+    "lat": 8.9595,
+    "lng": 77.3163,
+    "date": "2025-10-16",
+    "time": "10:30 AM",
+    "organizer": "Rotary Club of Tenkasi"
+  },
+  {
+    "name": "Shencottai College of Education NSS Blood Camp",
+    "city": "Shencottai",
+    "lat": 8.9691,
+    "lng": 77.2512,
+    "date": "2025-10-20",
+    "time": "01:00 PM",
+    "organizer": "Shencottai College NSS"
+  },
+  {
+    "name": "Government Taluk Hospital Blood Donation Camp",
+    "city": "Alangulam",
+    "lat": 8.8680,
+    "lng": 77.4980,
+    "date": "2025-10-25",
+    "time": "04:00 PM",
+    "organizer": "Govt. Taluk Hospital"
+  },
+  {
+    "name": "Government Medical College Hospital Blood Bank",
+    "city": "Thanjavur",
+    "lat": 10.7867,
+    "lng": 79.1378,
+    "date": "2025-09-18",
+    "time": "10:00 AM",
+    "organizer": "Govt. Medical College Hospital"
+  },
+  {
+    "name": "Indian Red Cross Society Blood Donation Camp",
+    "city": "Thanjavur",
+    "lat": 10.7855,
+    "lng": 79.1390,
+    "date": "2025-09-22",
+    "time": "11:00 AM",
+    "organizer": "Indian Red Cross Society"
+  },
+  {
+    "name": "SASTRA University NSS Blood Camp",
+    "city": "Thirumalaisamudram",
+    "lat": 10.7276,
+    "lng": 79.0189,
+    "date": "2025-09-26",
+    "time": "09:30 AM",
+    "organizer": "SASTRA NSS Unit"
+  },
+  {
+    "name": "Government Raja Mirasdar Hospital Blood Bank",
+    "city": "Thanjavur",
+    "lat": 10.7902,
+    "lng": 79.1355,
+    "date": "2025-09-30",
+    "time": "02:00 PM",
+    "organizer": "Govt. Raja Mirasdar Hospital"
+  },
+  {
+    "name": "Lions Club of Thanjavur Blood Donation Camp",
+    "city": "Thanjavur",
+    "lat": 10.7859,
+    "lng": 79.1385,
+    "date": "2025-10-04",
+    "time": "11:30 AM",
+    "organizer": "Lions Club"
+  },
+  {
+    "name": "PRIST University Blood Donation Drive",
+    "city": "Vallam",
+    "lat": 10.7290,
+    "lng": 79.0820,
+    "date": "2025-10-09",
+    "time": "10:00 AM",
+    "organizer": "PRIST NSS"
+  },
+  {
+    "name": "Rotary Club of Thanjavur Blood Donation Camp",
+    "city": "Thanjavur",
+    "lat": 10.7875,
+    "lng": 79.1370,
+    "date": "2025-10-14",
+    "time": "03:00 PM",
+    "organizer": "Rotary Club"
+  },
+  {
+    "name": "Kunthavai Naacchiyaar Govt Arts College NSS Camp",
+    "city": "Thanjavur",
+    "lat": 10.7915,
+    "lng": 79.1372,
+    "date": "2025-10-19",
+    "time": "09:00 AM",
+    "organizer": "KNGAC NSS Unit"
+  },
+  {
+    "name": "Sri Pushpam College Blood Donation Camp",
+    "city": "Poondi",
+    "lat": 10.8722,
+    "lng": 79.2833,
+    "date": "2025-10-23",
+    "time": "12:00 PM",
+    "organizer": "Sri Pushpam NSS Unit"
+  },
+  {
+    "name": "Government Taluk Hospital Blood Donation Camp",
+    "city": "Pattukkottai",
+    "lat": 10.4234,
+    "lng": 79.3171,
+    "date": "2025-10-28",
+    "time": "04:00 PM",
+    "organizer": "Govt. Taluk Hospital"
+  },
+  {
+    "name": "Government Medical College Hospital Blood Bank",
+    "city": "Theni",
+    "lat": 10.0104,
+    "lng": 77.4760,
+    "date": "2025-09-20",
+    "time": "10:00 AM",
+    "organizer": "Govt. Medical College Hospital"
+  },
+  {
+    "name": "Indian Red Cross Society Blood Donation Camp",
+    "city": "Theni",
+    "lat": 10.0101,
+    "lng": 77.4772,
+    "date": "2025-09-24",
+    "time": "11:00 AM",
+    "organizer": "Indian Red Cross Society"
+  },
+  {
+    "name": "Government District Headquarters Hospital Blood Bank",
+    "city": "Theni",
+    "lat": 10.0156,
+    "lng": 77.4778,
+    "date": "2025-09-28",
+    "time": "09:30 AM",
+    "organizer": "District HQ Hospital"
+  },
+  {
+    "name": "Rotary Club of Theni Blood Donation Camp",
+    "city": "Theni",
+    "lat": 10.0150,
+    "lng": 77.4765,
+    "date": "2025-10-02",
+    "time": "02:00 PM",
+    "organizer": "Rotary Club"
+  },
+  {
+    "name": "Lions Club of Theni Blood Donation Drive",
+    "city": "Theni",
+    "lat": 10.0135,
+    "lng": 77.4768,
+    "date": "2025-10-06",
+    "time": "11:30 AM",
+    "organizer": "Lions Club"
+  },
+  {
+    "name": "Nadar Saraswathi College NSS Blood Camp",
+    "city": "Vadapudupatti",
+    "lat": 9.9418,
+    "lng": 77.4846,
+    "date": "2025-10-11",
+    "time": "10:00 AM",
+    "organizer": "NSS Unit, NS College"
+  },
+  {
+    "name": "Govt. Taluk Hospital Blood Camp",
+    "city": "Periyakulam",
+    "lat": 10.1225,
+    "lng": 77.5430,
+    "date": "2025-10-15",
+    "time": "03:00 PM",
+    "organizer": "Govt. Taluk Hospital"
+  },
+  {
+    "name": "Rotary Club of Periyakulam Blood Donation Camp",
+    "city": "Periyakulam",
+    "lat": 10.1200,
+    "lng": 77.5442,
+    "date": "2025-10-19",
+    "time": "09:00 AM",
+    "organizer": "Rotary Club"
+  },
+  {
+    "name": "Government Hospital Blood Donation Camp",
+    "city": "Bodinayakanur",
+    "lat": 10.0123,
+    "lng": 77.3490,
+    "date": "2025-10-23",
+    "time": "12:00 PM",
+    "organizer": "Govt. Hospital Bodinayakanur"
+  },
+  {
+    "name": "Lions Club of Bodinayakanur Blood Camp",
+    "city": "Bodinayakanur",
+    "lat": 10.0140,
+    "lng": 77.3520,
+    "date": "2025-10-28",
+    "time": "04:00 PM",
+    "organizer": "Lions Club"
+  },
+  {
+    "name": "Government Thoothukudi Medical College Hospital Blood Bank",
+    "city": "Thoothukudi",
+    "lat": 8.7642,
+    "lng": 78.1348,
+    "date": "2025-09-21",
+    "time": "10:00 AM",
+    "organizer": "Govt. Medical College Hospital"
+  },
+  {
+    "name": "Indian Red Cross Society Blood Camp Thoothukudi",
+    "city": "Thoothukudi",
+    "lat": 8.7655,
+    "lng": 78.1355,
+    "date": "2025-09-25",
+    "time": "11:30 AM",
+    "organizer": "Indian Red Cross Society"
+  },
+  {
+    "name": "Government District Headquarters Hospital Blood Bank",
+    "city": "Thoothukudi",
+    "lat": 8.7620,
+    "lng": 78.1360,
+    "date": "2025-09-29",
+    "time": "09:30 AM",
+    "organizer": "District HQ Hospital"
+  },
+  {
+    "name": "Lions Club of Thoothukudi Blood Donation Camp",
+    "city": "Thoothukudi",
+    "lat": 8.7635,
+    "lng": 78.1342,
+    "date": "2025-10-03",
+    "time": "02:00 PM",
+    "organizer": "Lions Club"
+  },
+  {
+    "name": "Rotary Club Blood Donation Camp",
+    "city": "Thoothukudi",
+    "lat": 8.7648,
+    "lng": 78.1335,
+    "date": "2025-10-07",
+    "time": "11:00 AM",
+    "organizer": "Rotary Club"
+  },
+  {
+    "name": "Karunakaran Medical Trust Blood Camp",
+    "city": "Thoothukudi",
+    "lat": 8.7612,
+    "lng": 78.1358,
+    "date": "2025-10-11",
+    "time": "03:00 PM",
+    "organizer": "Karunakaran Medical Trust"
+  },
+  {
+    "name": "Sri Ramachandra Charitable Blood Camp",
+    "city": "Thoothukudi",
+    "lat": 8.7650,
+    "lng": 78.1365,
+    "date": "2025-10-15",
+    "time": "09:00 AM",
+    "organizer": "Sri Ramachandra Charitable Trust"
+  },
+  {
+    "name": "Velammal Hospital Blood Donation Camp",
+    "city": "Thoothukudi",
+    "lat": 8.7630,
+    "lng": 78.1330,
+    "date": "2025-10-19",
+    "time": "12:00 PM",
+    "organizer": "Velammal Hospitals"
+  },
+  {
+    "name": "Govt. Taluk Hospital Blood Camp",
+    "city": "Srivaikuntam",
+    "lat": 8.6310,
+    "lng": 78.0980,
+    "date": "2025-10-23",
+    "time": "10:30 AM",
+    "organizer": "Govt. Taluk Hospital"
+  },
+  {
+    "name": "Lions Club of Srivaikuntam Blood Donation Drive",
+    "city": "Srivaikuntam",
+    "lat": 8.6325,
+    "lng": 78.0995,
+    "date": "2025-10-28",
+    "time": "04:00 PM",
+    "organizer": "Lions Club"
+  },
+  {
+    "name": "Government Medical College Hospital Blood Bank",
+    "city": "Tiruchirappalli",
+    "lat": 10.7905,
+    "lng": 78.7047,
+    "date": "2025-09-22",
+    "time": "10:00 AM",
+    "organizer": "Govt. Medical College Hospital"
+  },
+  {
+    "name": "Indian Red Cross Society Blood Camp",
+    "city": "Tiruchirappalli",
+    "lat": 10.7912,
+    "lng": 78.7055,
+    "date": "2025-09-26",
+    "time": "11:30 AM",
+    "organizer": "Indian Red Cross Society"
+  },
+  {
+    "name": "Apollo Hospitals Blood Bank",
+    "city": "Tiruchirappalli",
+    "lat": 10.7925,
+    "lng": 78.7060,
+    "date": "2025-09-30",
+    "time": "09:00 AM",
+    "organizer": "Apollo Hospitals"
+  },
+  {
+    "name": "K.A.P. Viswanatham Government Hospital Blood Bank",
+    "city": "Tiruchirappalli",
+    "lat": 10.7890,
+    "lng": 78.7040,
+    "date": "2025-10-04",
+    "time": "02:00 PM",
+    "organizer": "Govt. Hospital"
+  },
+  {
+    "name": "Lions Club of Trichy Blood Donation Camp",
+    "city": "Tiruchirappalli",
+    "lat": 10.7908,
+    "lng": 78.7035,
+    "date": "2025-10-08",
+    "time": "11:00 AM",
+    "organizer": "Lions Club"
+  },
+  {
+    "name": "Rotary Club of Tiruchirappalli Blood Camp",
+    "city": "Tiruchirappalli",
+    "lat": 10.7915,
+    "lng": 78.7050,
+    "date": "2025-10-12",
+    "time": "03:00 PM",
+    "organizer": "Rotary Club"
+  },
+  {
+    "name": "Sriram Hospitals Blood Donation Drive",
+    "city": "Tiruchirappalli",
+    "lat": 10.7885,
+    "lng": 78.7025,
+    "date": "2025-10-16",
+    "time": "09:30 AM",
+    "organizer": "Sriram Hospitals"
+  },
+  {
+    "name": "Govt. Taluk Hospital Blood Camp",
+    "city": "Manapparai",
+    "lat": 10.5650,
+    "lng": 78.6230,
+    "date": "2025-10-20",
+    "time": "12:00 PM",
+    "organizer": "Govt. Taluk Hospital"
+  },
+  {
+    "name": "St. Joseph’s College NSS Blood Donation Camp",
+    "city": "Tiruchirappalli",
+    "lat": 10.7932,
+    "lng": 78.7070,
+    "date": "2025-10-24",
+    "time": "10:00 AM",
+    "organizer": "St. Joseph’s College NSS"
+  },
+  {
+    "name": "Vinayaka Mission Hospital Blood Camp",
+    "city": "Tiruchirappalli",
+    "lat": 10.7940,
+    "lng": 78.7085,
+    "date": "2025-10-28",
+    "time": "04:00 PM",
+    "organizer": "Vinayaka Mission Hospital"
+  },
+  {
+    "name": "Government Medical College Hospital Blood Bank",
+    "city": "Tirunelveli",
+    "lat": 8.7286,
+    "lng": 77.7089,
+    "date": "2025-09-23",
+    "time": "10:00 AM",
+    "organizer": "Govt. Medical College Hospital"
+  },
+  {
+    "name": "Indian Red Cross Society Blood Camp Tirunelveli",
+    "city": "Tirunelveli",
+    "lat": 8.7295,
+    "lng": 77.7098,
+    "date": "2025-09-27",
+    "time": "11:30 AM",
+    "organizer": "Indian Red Cross Society"
+  },
+  {
+    "name": "Government District Headquarters Hospital Blood Bank",
+    "city": "Tirunelveli",
+    "lat": 8.7302,
+    "lng": 77.7100,
+    "date": "2025-10-01",
+    "time": "09:30 AM",
+    "organizer": "District HQ Hospital"
+  },
+  {
+    "name": "Lions Club of Tirunelveli Blood Donation Camp",
+    "city": "Tirunelveli",
+    "lat": 8.7280,
+    "lng": 77.7085,
+    "date": "2025-10-05",
+    "time": "02:00 PM",
+    "organizer": "Lions Club"
+  },
+  {
+    "name": "Rotary Club of Tirunelveli Blood Donation Drive",
+    "city": "Tirunelveli",
+    "lat": 8.7272,
+    "lng": 77.7075,
+    "date": "2025-10-09",
+    "time": "11:00 AM",
+    "organizer": "Rotary Club"
+  },
+  {
+    "name": "Siva Medical Centre Blood Camp",
+    "city": "Tirunelveli",
+    "lat": 8.7310,
+    "lng": 77.7110,
+    "date": "2025-10-13",
+    "time": "03:00 PM",
+    "organizer": "Siva Medical Centre"
+  },
+  {
+    "name": "Govt. Taluk Hospital Blood Donation Camp",
+    "city": "Ambasamudram",
+    "lat": 8.7090,
+    "lng": 77.5980,
+    "date": "2025-10-17",
+    "time": "09:00 AM",
+    "organizer": "Govt. Taluk Hospital"
+  },
+  {
+    "name": "St. Xavier’s College NSS Blood Donation Camp",
+    "city": "Palayamkottai",
+    "lat": 8.7288,
+    "lng": 77.7050,
+    "date": "2025-10-21",
+    "time": "12:00 PM",
+    "organizer": "St. Xavier’s College NSS"
+  },
+  {
+    "name": "Velammal Hospital Blood Donation Camp",
+    "city": "Tirunelveli",
+    "lat": 8.7290,
+    "lng": 77.7065,
+    "date": "2025-10-25",
+    "time": "10:30 AM",
+    "organizer": "Velammal Hospitals"
+  },
+  {
+    "name": "Government Taluk Hospital Blood Camp",
+    "city": "Nanguneri",
+    "lat": 8.4140,
+    "lng": 77.6490,
+    "date": "2025-10-29",
+    "time": "04:00 PM",
+    "organizer": "Govt. Taluk Hospital"
+  },
+  {
+    "name": "Government Medical College Hospital Blood Bank",
+    "city": "Tiruppur",
+    "lat": 11.1085,
+    "lng": 77.3394,
+    "date": "2025-09-24",
+    "time": "10:00 AM",
+    "organizer": "Govt. Medical College Hospital"
+  },
+  {
+    "name": "Indian Red Cross Society Blood Camp",
+    "city": "Tiruppur",
+    "lat": 11.1090,
+    "lng": 77.3405,
+    "date": "2025-09-28",
+    "time": "11:30 AM",
+    "organizer": "Indian Red Cross Society"
+  },
+  {
+    "name": "Karthikeyan Hospital Blood Bank",
+    "city": "Tiruppur",
+    "lat": 11.1070,
+    "lng": 77.3380,
+    "date": "2025-10-02",
+    "time": "09:30 AM",
+    "organizer": "Karthikeyan Hospital"
+  },
+  {
+    "name": "Rotary Club of Tiruppur Blood Donation Camp",
+    "city": "Tiruppur",
+    "lat": 11.1080,
+    "lng": 77.3390,
+    "date": "2025-10-06",
+    "time": "02:00 PM",
+    "organizer": "Rotary Club"
+  },
+  {
+    "name": "Lions Club of Tiruppur Blood Donation Drive",
+    "city": "Tiruppur",
+    "lat": 11.1088,
+    "lng": 77.3385,
+    "date": "2025-10-10",
+    "time": "11:00 AM",
+    "organizer": "Lions Club"
+  },
+  {
+    "name": "Govt. Taluk Hospital Blood Camp",
+    "city": "Avinashi",
+    "lat": 11.2880,
+    "lng": 77.2630,
+    "date": "2025-10-14",
+    "time": "03:00 PM",
+    "organizer": "Govt. Taluk Hospital"
+  },
+  {
+    "name": "Velammal Hospital Blood Donation Camp",
+    "city": "Tiruppur",
+    "lat": 11.1095,
+    "lng": 77.3410,
+    "date": "2025-10-18",
+    "time": "09:00 AM",
+    "organizer": "Velammal Hospitals"
+  },
+  {
+    "name": "Sri Ramachandra Charitable Blood Camp",
+    "city": "Tiruppur",
+    "lat": 11.1078,
+    "lng": 77.3375,
+    "date": "2025-10-22",
+    "time": "12:00 PM",
+    "organizer": "Sri Ramachandra Charitable Trust"
+  },
+  {
+    "name": "St. Joseph’s College NSS Blood Donation Camp",
+    "city": "Tiruppur",
+    "lat": 11.1065,
+    "lng": 77.3388,
+    "date": "2025-10-26",
+    "time": "10:30 AM",
+    "organizer": "St. Joseph’s College NSS"
+  },
+  {
+    "name": "Government Hospital Blood Donation Camp",
+    "city": "Udumalpet",
+    "lat": 10.7010,
+    "lng": 77.2720,
+    "date": "2025-10-30",
+    "time": "04:00 PM",
+    "organizer": "Government Hospital"
+  },
+  {
+    "name": "Government Thiruvallur Medical College Hospital Blood Bank",
+    "city": "Tiruvallur",
+    "lat": 13.1281,
+    "lng": 79.9916,
+    "date": "2025-09-25",
+    "time": "10:00 AM",
+    "organizer": "Govt. Medical College Hospital"
+  },
+  {
+    "name": "Indian Red Cross Society Blood Camp",
+    "city": "Tiruvallur",
+    "lat": 13.1290,
+    "lng": 79.9920,
+    "date": "2025-09-29",
+    "time": "11:30 AM",
+    "organizer": "Indian Red Cross Society"
+  },
+  {
+    "name": "Rotary Club of Tiruvallur Blood Donation Camp",
+    "city": "Tiruvallur",
+    "lat": 13.1270,
+    "lng": 79.9910,
+    "date": "2025-10-03",
+    "time": "09:30 AM",
+    "organizer": "Rotary Club"
+  },
+  {
+    "name": "Lions Club of Tiruvallur Blood Donation Drive",
+    "city": "Tiruvallur",
+    "lat": 13.1285,
+    "lng": 79.9925,
+    "date": "2025-10-07",
+    "time": "02:00 PM",
+    "organizer": "Lions Club"
+  },
+  {
+    "name": "Govt. Taluk Hospital Blood Camp",
+    "city": "Ponneri",
+    "lat": 13.2810,
+    "lng": 80.1840,
+    "date": "2025-10-11",
+    "time": "11:00 AM",
+    "organizer": "Govt. Taluk Hospital"
+  },
+  {
+    "name": "Sri Ramachandra Charitable Blood Camp",
+    "city": "Tiruvallur",
+    "lat": 13.1295,
+    "lng": 79.9930,
+    "date": "2025-10-15",
+    "time": "03:00 PM",
+    "organizer": "Sri Ramachandra Charitable Trust"
+  },
+  {
+    "name": "Velammal Hospital Blood Donation Camp",
+    "city": "Tiruvallur",
+    "lat": 13.1278,
+    "lng": 79.9905,
+    "date": "2025-10-19",
+    "time": "09:00 AM",
+    "organizer": "Velammal Hospitals"
+  },
+  {
+    "name": "St. Joseph’s College NSS Blood Donation Camp",
+    "city": "Thiruninravur",
+    "lat": 13.1440,
+    "lng": 79.9750,
+    "date": "2025-10-23",
+    "time": "12:00 PM",
+    "organizer": "St. Joseph’s College NSS"
+  },
+  {
+    "name": "Government Hospital Blood Donation Camp",
+    "city": "Gummidipoondi",
+    "lat": 13.3370,
+    "lng": 80.1860,
+    "date": "2025-10-27",
+    "time": "10:30 AM",
+    "organizer": "Govt. Hospital"
+  },
+  {
+    "name": "Rotary Club of Gummidipoondi Blood Camp",
+    "city": "Gummidipoondi",
+    "lat": 13.3385,
+    "lng": 80.1875,
+    "date": "2025-10-31",
+    "time": "04:00 PM",
+    "organizer": "Rotary Club"
+  },
+  {
+    "name": "Government Medical College Hospital Blood Bank",
+    "city": "Tiruvannamalai",
+    "lat": 12.2253,
+    "lng": 79.0734,
+    "date": "2025-09-26",
+    "time": "10:00 AM",
+    "organizer": "Govt. Medical College Hospital"
+  },
+  {
+    "name": "Indian Red Cross Society Blood Camp",
+    "city": "Tiruvannamalai",
+    "lat": 12.2260,
+    "lng": 79.0740,
+    "date": "2025-09-30",
+    "time": "11:30 AM",
+    "organizer": "Indian Red Cross Society"
+  },
+  {
+    "name": "Rotary Club of Tiruvannamalai Blood Donation Camp",
+    "city": "Tiruvannamalai",
+    "lat": 12.2245,
+    "lng": 79.0725,
+    "date": "2025-10-04",
+    "time": "09:30 AM",
+    "organizer": "Rotary Club"
+  },
+  {
+    "name": "Lions Club of Tiruvannamalai Blood Donation Drive",
+    "city": "Tiruvannamalai",
+    "lat": 12.2258,
+    "lng": 79.0738,
+    "date": "2025-10-08",
+    "time": "02:00 PM",
+    "organizer": "Lions Club"
+  },
+  {
+    "name": "Govt. Taluk Hospital Blood Camp",
+    "city": "Cheyyar",
+    "lat": 12.5020,
+    "lng": 79.6120,
+    "date": "2025-10-12",
+    "time": "11:00 AM",
+    "organizer": "Govt. Taluk Hospital"
+  },
+  {
+    "name": "Sri Ramachandra Charitable Blood Camp",
+    "city": "Tiruvannamalai",
+    "lat": 12.2265,
+    "lng": 79.0745,
+    "date": "2025-10-16",
+    "time": "03:00 PM",
+    "organizer": "Sri Ramachandra Charitable Trust"
+  },
+  {
+    "name": "Velammal Hospital Blood Donation Camp",
+    "city": "Tiruvannamalai",
+    "lat": 12.2248,
+    "lng": 79.0720,
+    "date": "2025-10-20",
+    "time": "09:00 AM",
+    "organizer": "Velammal Hospitals"
+  },
+  {
+    "name": "St. Joseph’s College NSS Blood Donation Camp",
+    "city": "Tiruvannamalai",
+    "lat": 12.2270,
+    "lng": 79.0750,
+    "date": "2025-10-24",
+    "time": "12:00 PM",
+    "organizer": "St. Joseph’s College NSS"
+  },
+  {
+    "name": "Government Hospital Blood Donation Camp",
+    "city": "Vandavasi",
+    "lat": 12.4130,
+    "lng": 79.5940,
+    "date": "2025-10-28",
+    "time": "10:30 AM",
+    "organizer": "Govt. Hospital"
+  },
+  {
+    "name": "Lions Club of Vandavasi Blood Donation Camp",
+    "city": "Vandavasi",
+    "lat": 12.4145,
+    "lng": 79.5955,
+    "date": "2025-11-01",
+    "time": "04:00 PM",
+    "organizer": "Lions Club"
+  },
+  {
+    "name": "Government Medical College Hospital Blood Bank",
+    "city": "Tiruvarur",
+    "lat": 10.7670,
+    "lng": 79.6320,
+    "date": "2025-09-27",
+    "time": "10:00 AM",
+    "organizer": "Govt. Medical College Hospital"
+  },
+  {
+    "name": "Indian Red Cross Society Blood Camp",
+    "city": "Tiruvarur",
+    "lat": 10.7682,
+    "lng": 79.6335,
+    "date": "2025-10-01",
+    "time": "11:30 AM",
+    "organizer": "Indian Red Cross Society"
+  },
+  {
+    "name": "Rotary Club of Tiruvarur Blood Donation Camp",
+    "city": "Tiruvarur",
+    "lat": 10.7665,
+    "lng": 79.6315,
+    "date": "2025-10-05",
+    "time": "09:30 AM",
+    "organizer": "Rotary Club"
+  },
+  {
+    "name": "Lions Club of Tiruvarur Blood Donation Drive",
+    "city": "Tiruvarur",
+    "lat": 10.7675,
+    "lng": 79.6325,
+    "date": "2025-10-09",
+    "time": "02:00 PM",
+    "organizer": "Lions Club"
+  },
+  {
+    "name": "Govt. Taluk Hospital Blood Camp",
+    "city": "Nannilam",
+    "lat": 10.8250,
+    "lng": 79.6120,
+    "date": "2025-10-13",
+    "time": "11:00 AM",
+    "organizer": "Govt. Taluk Hospital"
+  },
+  {
+    "name": "Sri Ramachandra Charitable Blood Camp",
+    "city": "Tiruvarur",
+    "lat": 10.7688,
+    "lng": 79.6340,
+    "date": "2025-10-17",
+    "time": "03:00 PM",
+    "organizer": "Sri Ramachandra Charitable Trust"
+  },
+  {
+    "name": "Velammal Hospital Blood Donation Camp",
+    "city": "Tiruvarur",
+    "lat": 10.7668,
+    "lng": 79.6310,
+    "date": "2025-10-21",
+    "time": "09:00 AM",
+    "organizer": "Velammal Hospitals"
+  },
+  {
+    "name": "St. Joseph’s College NSS Blood Donation Camp",
+    "city": "Tiruvarur",
+    "lat": 10.7690,
+    "lng": 79.6350,
+    "date": "2025-10-25",
+    "time": "12:00 PM",
+    "organizer": "St. Joseph’s College NSS"
+  },
+  {
+    "name": "Government Hospital Blood Donation Camp",
+    "city": "Kumbakonam",
+    "lat": 10.9630,
+    "lng": 79.3800,
+    "date": "2025-10-29",
+    "time": "10:30 AM",
+    "organizer": "Govt. Hospital"
+  },
+  {
+    "name": "Lions Club of Kumbakonam Blood Donation Camp",
+    "city": "Kumbakonam",
+    "lat": 10.9645,
+    "lng": 79.3815,
+    "date": "2025-11-02",
+    "time": "04:00 PM",
+    "organizer": "Lions Club"
+  },
+  {
+    "name": "Christian Medical College Blood Bank",
+    "city": "Vellore",
+    "lat": 12.9172,
+    "lng": 79.1325,
+    "date": "2025-09-28",
+    "time": "10:00 AM",
+    "organizer": "CMC Vellore"
+  },
+  {
+    "name": "Indian Red Cross Society Blood Camp",
+    "city": "Vellore",
+    "lat": 12.9180,
+    "lng": 79.1335,
+    "date": "2025-10-02",
+    "time": "11:30 AM",
+    "organizer": "Indian Red Cross Society"
+  },
+  {
+    "name": "Govt. Vellore Medical College Hospital Blood Bank",
+    "city": "Vellore",
+    "lat": 12.9160,
+    "lng": 79.1315,
+    "date": "2025-10-06",
+    "time": "09:30 AM",
+    "organizer": "Govt. Medical College Hospital"
+  },
+  {
+    "name": "Lions Club of Vellore Blood Donation Camp",
+    "city": "Vellore",
+    "lat": 12.9175,
+    "lng": 79.1328,
+    "date": "2025-10-10",
+    "time": "02:00 PM",
+    "organizer": "Lions Club"
+  },
+  {
+    "name": "Rotary Club of Vellore Blood Donation Drive",
+    "city": "Vellore",
+    "lat": 12.9185,
+    "lng": 79.1340,
+    "date": "2025-10-14",
+    "time": "11:00 AM",
+    "organizer": "Rotary Club"
+  },
+  {
+    "name": "Govt. Taluk Hospital Blood Camp",
+    "city": "Ambur",
+    "lat": 12.7670,
+    "lng": 78.7090,
+    "date": "2025-10-18",
+    "time": "03:00 PM",
+    "organizer": "Govt. Taluk Hospital"
+  },
+  {
+    "name": "Velammal Hospital Blood Donation Camp",
+    "city": "Vellore",
+    "lat": 12.9165,
+    "lng": 79.1310,
+    "date": "2025-10-22",
+    "time": "09:00 AM",
+    "organizer": "Velammal Hospitals"
+  },
+  {
+    "name": "St. Joseph’s College NSS Blood Donation Camp",
+    "city": "Vellore",
+    "lat": 12.9178,
+    "lng": 79.1350,
+    "date": "2025-10-26",
+    "time": "12:00 PM",
+    "organizer": "St. Joseph’s College NSS"
+  },
+  {
+    "name": "Government Hospital Blood Donation Camp",
+    "city": "Gudiyattam",
+    "lat": 12.7520,
+    "lng": 78.9200,
+    "date": "2025-10-30",
+    "time": "10:30 AM",
+    "organizer": "Govt. Hospital"
+  },
+  {
+    "name": "Lions Club of Gudiyattam Blood Donation Camp",
+    "city": "Gudiyattam",
+    "lat": 12.7535,
+    "lng": 78.9215,
+    "date": "2025-11-03",
+    "time": "04:00 PM",
+    "organizer": "Lions Club"
+  },
+  {
+    "name": "Government Viluppuram Medical College Hospital Blood Bank",
+    "city": "Viluppuram",
+    "lat": 11.9445,
+    "lng": 79.4920,
+    "date": "2025-09-29",
+    "time": "10:00 AM",
+    "organizer": "Govt. Medical College Hospital"
+  },
+  {
+    "name": "Indian Red Cross Society Blood Camp",
+    "city": "Viluppuram",
+    "lat": 11.9452,
+    "lng": 79.4935,
+    "date": "2025-10-03",
+    "time": "11:30 AM",
+    "organizer": "Indian Red Cross Society"
+  },
+  {
+    "name": "Rotary Club of Viluppuram Blood Donation Camp",
+    "city": "Viluppuram",
+    "lat": 11.9430,
+    "lng": 79.4915,
+    "date": "2025-10-07",
+    "time": "09:30 AM",
+    "organizer": "Rotary Club"
+  },
+  {
+    "name": "Lions Club of Viluppuram Blood Donation Drive",
+    "city": "Viluppuram",
+    "lat": 11.9448,
+    "lng": 79.4925,
+    "date": "2025-10-11",
+    "time": "02:00 PM",
+    "organizer": "Lions Club"
+  },
+  {
+    "name": "Govt. Taluk Hospital Blood Camp",
+    "city": "Tindivanam",
+    "lat": 12.2530,
+    "lng": 79.6550,
+    "date": "2025-10-15",
+    "time": "11:00 AM",
+    "organizer": "Govt. Taluk Hospital"
+  },
+  {
+    "name": "Sri Ramachandra Charitable Blood Camp",
+    "city": "Viluppuram",
+    "lat": 11.9455,
+    "lng": 79.4930,
+    "date": "2025-10-19",
+    "time": "03:00 PM",
+    "organizer": "Sri Ramachandra Charitable Trust"
+  },
+  {
+    "name": "Velammal Hospital Blood Donation Camp",
+    "city": "Viluppuram",
+    "lat": 11.9440,
+    "lng": 79.4910,
+    "date": "2025-10-23",
+    "time": "09:00 AM",
+    "organizer": "Velammal Hospitals"
+  },
+  {
+    "name": "St. Joseph’s College NSS Blood Donation Camp",
+    "city": "Viluppuram",
+    "lat": 11.9460,
+    "lng": 79.4940,
+    "date": "2025-10-27",
+    "time": "12:00 PM",
+    "organizer": "St. Joseph’s College NSS"
+  },
+  {
+    "name": "Government Hospital Blood Donation Camp",
+    "city": "Gingee",
+    "lat": 12.2450,
+    "lng": 79.5700,
+    "date": "2025-10-31",
+    "time": "10:30 AM",
+    "organizer": "Govt. Hospital"
+  },
+  {
+    "name": "Lions Club of Gingee Blood Donation Camp",
+    "city": "Gingee",
+    "lat": 12.2465,
+    "lng": 79.5715,
+    "date": "2025-11-04",
+    "time": "04:00 PM",
+    "organizer": "Lions Club"
+  },
+  {
+    "name": "Government Virudhunagar Medical College Hospital Blood Bank",
+    "city": "Virudhunagar",
+    "lat": 9.5720,
+    "lng": 77.9520,
+    "date": "2025-09-30",
+    "time": "10:00 AM",
+    "organizer": "Govt. Medical College Hospital"
+  },
+  {
+    "name": "Indian Red Cross Society Blood Camp",
+    "city": "Virudhunagar",
+    "lat": 9.5735,
+    "lng": 77.9535,
+    "date": "2025-10-04",
+    "time": "11:30 AM",
+    "organizer": "Indian Red Cross Society"
+  },
+  {
+    "name": "Rotary Club of Virudhunagar Blood Donation Camp",
+    "city": "Virudhunagar",
+    "lat": 9.5710,
+    "lng": 77.9510,
+    "date": "2025-10-08",
+    "time": "09:30 AM",
+    "organizer": "Rotary Club"
+  },
+  {
+    "name": "Lions Club of Virudhunagar Blood Donation Drive",
+    "city": "Virudhunagar",
+    "lat": 9.5725,
+    "lng": 77.9525,
+    "date": "2025-10-12",
+    "time": "02:00 PM",
+    "organizer": "Lions Club"
+  },
+  {
+    "name": "Govt. Taluk Hospital Blood Camp",
+    "city": "Sattur",
+    "lat": 9.5650,
+    "lng": 77.8500,
+    "date": "2025-10-16",
+    "time": "11:00 AM",
+    "organizer": "Govt. Taluk Hospital"
+  },
+  {
+    "name": "Sri Ramachandra Charitable Blood Camp",
+    "city": "Virudhunagar",
+    "lat": 9.5740,
+    "lng": 77.9540,
+    "date": "2025-10-20",
+    "time": "03:00 PM",
+    "organizer": "Sri Ramachandra Charitable Trust"
+  },
+  {
+    "name": "Velammal Hospital Blood Donation Camp",
+    "city": "Virudhunagar",
+    "lat": 9.5718,
+    "lng": 77.9505,
+    "date": "2025-10-24",
+    "time": "09:00 AM",
+    "organizer": "Velammal Hospitals"
+  },
+  {
+    "name": "St. Joseph’s College NSS Blood Donation Camp",
+    "city": "Virudhunagar",
+    "lat": 9.5750,
+    "lng": 77.9550,
+    "date": "2025-10-28",
+    "time": "12:00 PM",
+    "organizer": "St. Joseph’s College NSS"
+  },
+  {
+    "name": "Government Hospital Blood Donation Camp",
+    "city": "Aruppukottai",
+    "lat": 9.5730,
+    "lng": 78.1000,
+    "date": "2025-11-01",
+    "time": "10:30 AM",
+    "organizer": "Govt. Hospital"
+  },
+  {
+    "name": "Lions Club of Aruppukottai Blood Donation Camp",
+    "city": "Aruppukottai",
+    "lat": 9.5745,
+    "lng": 78.1015,
+    "date": "2025-11-05",
+    "time": "04:00 PM",
+    "organizer": "Lions Club"
+  }
+]
