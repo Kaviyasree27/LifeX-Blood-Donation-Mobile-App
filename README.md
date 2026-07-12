@@ -37,16 +37,12 @@ LifeX is a Flutter-based mobile application designed to simplify blood donation 
 The landing page introducing the application.
 
 <img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/d4f76e02-e7f8-4300-9fbe-064a43138c3e" />
-
-
 ---
 
 ### User Registration
 Users can create a new account by entering their personal details.
+<img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/dd63e865-b8a2-49b9-8c06-342713cb1895" />
 
-
-
-<img src="blob:https://web.whatsapp.com/c4c4f866-3565-4fef-afd3-bd898c2f45ad" width="25">
 ---
 
 ### Login Screen
