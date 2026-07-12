@@ -44,9 +44,9 @@ The landing page introducing the application.
 ### User Registration
 Users can create a new account by entering their personal details.
 
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/6f766cbc-3256-4eeb-99e9-48238e9c7390" />
 
 
+<img src="blob:https://web.whatsapp.com/c4c4f866-3565-4fef-afd3-bd898c2f45ad" width="250">
 ---
 
 ### Login Screen
