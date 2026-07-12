@@ -41,6 +41,8 @@ The landing page introducing the application.
 
 ### User Registration
 Users can create a new account by entering their personal details.
+
+
 <img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/dd63e865-b8a2-49b9-8c06-342713cb1895" />
 
 ---
