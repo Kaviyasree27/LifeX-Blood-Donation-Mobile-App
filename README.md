@@ -67,7 +67,7 @@ Provides quick access to all application features.
 ### Become a Donor
 Users can register themselves as blood donors.
 
-*(Paste Become Donor Screenshot Here)*
+<img width="72" height="160" alt="image" src="https://github.com/user-attachments/assets/8d025466-8d8a-4f62-b478-53f0b1c0a043" />
 
 ---
 
